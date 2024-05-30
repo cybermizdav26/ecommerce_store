@@ -1,0 +1,21 @@
+{% extends 'base/base.html' %}
+
+{% block title %}User Profile{% endblock %}
+
+{% block content %}
+    <div class="profile centered">
+        {% if user.image %}
+            <img src="{{ user.image.url }}" class="profile-img">
+        {% else %}
+            <p>No photo uploaded.</p>
+        {% endif %}
+        <h1>My Profile</h1>
+        <p>Name: {{ user.get_full_name }}</p>
+        <p>Phone: {{ user.phone }}</p>
+        <p>Email: {{ user.email }}</p>
+        <a href="{% url 'account:profile_update' %}">
+            <i class="fa-solid fa-pen"></i>
+        </a>
+    </div>
+{% endblock %}
+

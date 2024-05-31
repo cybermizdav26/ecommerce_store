@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django_filters',
     'django.contrib.humanize',
     'rest_framework',
+    'rest_framework_simplejwt',
     # 'django_google_sso',
     #local apps
     'account.apps.AccountConfig',
@@ -139,3 +140,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 AUTH_USER_MODEL = 'account.User'
 
+REST_FRAMEWORK = {
+        'DEFAULT_AUTHENTICATION_CLASSES': (
+                'rest_framework_simplejwt.authentication.JWTAuthentication',
+    )
+    }

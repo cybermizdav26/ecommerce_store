@@ -41,7 +41,7 @@
 <div class="row align-items-center">
 	<div class="col-lg-2 col-md-3 col-6">
 		<a href="{% url 'product:home' %}" class="brand-wrap">
-			<img class="logo" src="{% static 'images/logo.png' %}">
+			<img class="logo" src="{% static 'images/logo2.png' %}">
 		</a> <!-- brand-wrap.// -->
 	</div>
 	<div class="col-lg col-sm col-md col-6 flex-grow-0">
@@ -51,12 +51,12 @@
 			</button>
 			<div class="dropdown-menu">
                 {% for category in categories %}
-				<a class="dropdown-item" href="{% url 'product:category_id' category.pk %}">{{ category.name }}</a>
-			    {% endfor %}
-            </div>
+				    <a class="dropdown-item" href="{% url 'product:category_id' category.pk %}">{{ category.name }} </a>
+                {% endfor %}
+			</div>
 		</div>  <!-- category-wrap.// -->
 	</div> <!-- col.// -->
-	<a href="{% url 'product:store' %} " class="btn btn-outline-primary">Store</a>
+	<a href="{% url 'product:store' %}" class="btn btn-outline-primary">Store</a>
 	<div class="col-lg  col-md-6 col-sm-12 col">
 		<form action="#" class="search">
 			<div class="input-group w-100">
@@ -84,9 +84,9 @@
                             {% endif %}
 						</div>
 					</div>
-					<a href="./cart.html" class="widget-header pl-3 ml-3">
+					<a href="{% url 'order:cart' %}" class="widget-header pl-3 ml-3">
 						<div class="icon icon-sm rounded-circle border"><i class="fa fa-shopping-cart"></i></div>
-						<span class="badge badge-pill badge-danger notify">0</span>
+						<span class="badge badge-pill badge-danger notify">{{ count }}</span>
 					</a>
 				</div> <!-- widgets-wrap.// -->
 			</div> <!-- col.// -->

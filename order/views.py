@@ -1,23 +1,27 @@
 from django.contrib.auth.decorators import login_required
+from django.db.models import F, Sum
+from django.shortcuts import render, get_object_or_404, redirect
+from django.contrib import messages
 from django.db import IntegrityError
-from django.db.models import Sum
-from django.shortcuts import redirect, get_object_or_404
 
 from order.models import Order, OrderItem
-from product import views
 from product.models import Product
 
 
-@login_required(login_url='accounts/login')
+@login_required(login_url='/accounts/login/')
 def cart(request):
-    order = Order.objects.filter(customer=request.user, ordered=False).annotate(
-        order_tota_price=Sum('orderitem__total_price')
+    order = Order.objects.filter(customer=request.user,
+                                 ordered=False).annotate(
+        order_total_price=Sum('order_items__total_price')
     ).first()
-    context = {"order": order}
-    return redirect(request, 'order/carts.html', context=context)
+
+    context = {
+        'order': order
+    }
+    return render(request, 'order/cart.html', context=context)
 
 
-@login_required(login_url='accounts/login')
+@login_required(login_url='/accounts/login/')
 def add_order(request, pk):
     product = get_object_or_404(Product, pk=pk)
     order, order_created = Order.objects.get_or_create(
@@ -26,11 +30,12 @@ def add_order(request, pk):
     )
 
     try:
-        order_item, order_item_created = Order.objects.get_or_create(
+        order_item, order_item_created = OrderItem.objects.get_or_create(
             product=product,
             customer=request.user,
             ordered=False,
-            order=order,
+            order=order
+
         )
     except IntegrityError:
         order_item, order_item_created = OrderItem.objects.get_or_create(
@@ -39,7 +44,46 @@ def add_order(request, pk):
             quantity=1,
             ordered=False,
             order=order
+
         )
     order_item.set_total_price()
     if not order_item_created:
         order_item.quantity += 1
+        order_item.save()
+        order_item.set_total_price()
+        messages.info(request, f'{product.title} updated to 1!')
+        return redirect('order:cart')
+    messages.info(request, 'Added to cart!')
+    return redirect('order:cart')
+
+
+@login_required(login_url='/accounts/login/')
+def remove_order_item(request, pk):
+    order_item = get_object_or_404(OrderItem, pk=pk)
+    order_item.delete()
+    return redirect('order:cart')
+
+
+@login_required(login_url='/accounts/login/')
+def reduce_order(request, pk):
+    order_item = get_object_or_404(OrderItem, pk=pk)
+    order = Order.objects.filter(
+        customer=request.user,
+        ordered=False
+    ).first()
+
+    if order:
+        if order_item:
+            if order_item.quantity > 1:
+                order_item.quantity -= 1
+                order_item.save()
+            else:
+                order_item.delete()
+            messages.info(request, "Item quantity was updated")
+            return redirect("order:cart")
+        else:
+            messages.info(request, "This Item not in your cart")
+            return redirect("order:cart")
+    else:
+        messages.info(request, "You do not have an Order")
+        return redirect("order:cart")

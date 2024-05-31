@@ -3,12 +3,12 @@ from django.shortcuts import render, get_object_or_404, redirect
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.urls import reverse
 
-from product.models import Product, Images, Comment, Category
+from product.models import Product, Image, Comment, Category
 from product.filters import ProductFilter
 
 
 def home(request):
-    main_image_subquery = Images.objects.filter(
+    main_image_subquery = Image.objects.filter(
         product=OuterRef('pk'),
         is_main=True
     ).values('image')[:1]
@@ -22,9 +22,9 @@ def home(request):
 
 
 def store(request):
-    main_image_subquery = Images.objects.filter(
+    main_image_subquery = Image.objects.filter(
         product=OuterRef('pk'),
-        # is_main=True
+        is_main=True
     ).values('image')[:1]
 
     price_gte = request.GET.get('price__gte')
@@ -54,7 +54,7 @@ def store(request):
 
 def get_category(request, pk):
     category = get_object_or_404(Category, pk=pk)
-    main_image_subquery = Images.objects.filter(
+    main_image_subquery = Image.objects.filter(
         product=OuterRef('pk'),
         # is_main=True
     ).values('image')[:1]

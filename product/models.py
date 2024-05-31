@@ -49,7 +49,7 @@ class Product(TimeStampModel):
             )
 
 
-class Images(TimeStampModel):
+class Image(TimeStampModel):
     product = models.ForeignKey(Product, on_delete=models.CASCADE)
     image = models.ImageField(upload_to='product/')
     is_main = models.BooleanField(default=False)

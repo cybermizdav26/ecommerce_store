@@ -4,141 +4,138 @@
 
 {% block title %} {{ product.title }} {% endblock %}
 
-
 {% block content %}
 
-
-    <section class="section-content padding-y bg">
-        <div class="container">
-
-            <!-- ============================ COMPONENT 1 ================================= -->
-            <div class="card">
-                <div class="row no-gutters">
-                    <aside class="col-md-6">
-                        <article class="gallery-wrap">
-                            <div class="img-big-wrap">
-                                <div class="swiper mySwiper">
-                                    <div class="swiper-wrapper">
-                                      <div class="swiper-slide">
-                                          {% for img in product.images_set.all %}
-                                                <a href="#"><img src="{{ img.image.url }}"></a>
-                                          {% endfor %}
-                                      </div>
-                                    </div>
-                                    <div class="swiper-button-next"></div>
-                                    <div class="swiper-button-prev"></div>
-                                </div>
-{#                                {% for img in product.images_set.all %}#}
-{#                                    <a href="#"><img src="{{ img.image.url }}"></a>#}
-{#                                {% endfor %}#}
-                            </div> <!-- img-big-wrap.// -->
-
-                        </article> <!-- gallery-wrap .end// -->
-                    </aside>
-                    <main class="col-md-6 border-left">
-                        <article class="content-body">
-
-                            <h2 class="title">{{ product.title }}</h2>
-
-                            <div class="mb-3">
-                                <var class="price h4">${{ product.price }}</var>
-                            </div>
-
-                            <p>{{ product.description }}</p>
-
-
-                            <hr>
-                            <div class="row">
-                                <div class="item-option-select">
-                                    <h6>Detail Color</h6>
-                                    <div class="btn-group btn-group-sm btn-group-toggle" data-toggle="buttons">
-                                        <label class="btn btn-light">
-                                            {% if product.category.type == 1 %}
-                                                <input type="radio" name="radio_color"> {{ product.detail.color }}
-                                            {% else %}
-                                                <input type="radio" name="radio_color"> {{ product.detail }}
-                                            {% endif %}
-                                        </label>
-                                    </div>
-                                </div>
-                            </div> <!-- row.// -->
-                            <hr>
-                            <div class="row">
-                                <div class="item-option-select">
-                                    <h6>Detail Size</h6>
-                                    <div class="btn-group btn-group-sm btn-group-toggle" data-toggle="buttons">
-                                        <label class="btn btn-light">
-                                            {% if product.category.type == 1 %}
-                                                <input type="radio" name="radio_color"> {{ product.detail.size }}
-                                            {% else %}
-                                                <input type="radio" name="radio_color"> {{ product.detail }}
-                                            {% endif %}
-                                        </label>
-                                    </div>
-                                </div>
-                            </div> <!-- row.// -->
-                            <hr>
-                            <a href="{% url 'product:detail' product.pk %}" class="btn  btn-primary"> <span
-                                    class="text">Add to cart</span> <i class="fas fa-shopping-cart"></i> </a>
-                        </article> <!-- product-info-aside .// -->
-                    </main> <!-- col.// -->
-                </div> <!-- row.// -->
-            </div> <!-- card.// -->
-            <!-- ============================ COMPONENT 1 END .// ================================= -->
-
-            <br>
-            <div class="row">
-                <div class="col-md-9">
-                    <form method="post">
-                        {% csrf_token %}
-                        <label>Text</label>
-                        <input type="text" name="text" placeholder="Text">
-                        <label>Star</label>
-                        <input name="star" type="number" placeholder="0", value="0">
-                       
-                        <button type="submit"> Send</button>
-                    </form>
-                </div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-9">
-
-                    <header class="section-heading">
-                        <h3>Customer Reviews </h3>
-
-                    </header>
-                    {% for comment in product.comment_set.all %}
-                        <article class="box mb-3">
-                            <div class="icontext w-100">
-                                <img src="{{ comment.owner.image.url }}" class="img-xs icon rounded-circle">
-                                <div class="text">
-                                    <span class="date text-muted float-md-right">{{ comment.created_at }} </span>
-                                    <h6 class="mb-1">{{ comment.owner.username }} </h6>
-
-                                </div>
-                            </div> <!-- icontext.// -->
-                            <div class="mt-3">
-                                <p>
-                                    {% for _ in comment.star|custom_range %}
-                                        <span class="fa fa-star"></span>
+<section class="section-content padding-y bg">
+    <div class="container">
+        <!-- ============================ COMPONENT 1 ================================= -->
+        <div class="card">
+            <div class="row no-gutters">
+                <aside class="col-md-6">
+                    <article class="gallery-wrap">
+                        <div class="img-big-wrap">
+                            <div id="carouselExampleIndicators" class="carousel slide my-4" data-ride="carousel">
+                                <ol class="carousel-indicators">
+                                    {% for img in product.image_set.all %}
+                                        <li data-target="#carouselExampleIndicators" data-slide-to="{{ forloop.counter0 }}" class="{% if forloop.first %}active{% endif %}"></li>
                                     {% endfor %}
-                                </p>
-                                <p>
-                                    {{ comment.text }}
-                                </p>
+                                </ol>
+                                <div class="carousel-inner" role="listbox">
+                                    {% for img in product.image_set.all %}
+                                        <div class="carousel-item {% if forloop.first %}active{% endif %}">
+                                            <a href="#"><img class="d-block img-fluid" src="{{ img.image.url }}"></a>
+                                        </div>
+                                    {% endfor %}
+                                </div>
+                                <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="sr-only">Previous</span>
+                                </a>
+                                <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="sr-only">Next</span>
+                                </a>
                             </div>
-                        </article>
-                    {% endfor %}
-
-
-                </div> <!-- col.// -->
-            </div> <!-- row.// -->
-
-
-        </div> <!-- container .//  -->
-    </section>
-    <!-- ========================= SECTION CONTENT END// ========================= -->
-
-
+                        </div>
+                    </article>
+                </aside>
+                <main class="col-md-6 border-left">
+                    <article class="content-body">
+                        <h2 class="title">{{ product.title }}</h2>
+                        <div class="mb-3">
+                            <var class="price h4">${{ product.price }}</var>
+                        </div>
+                        <p>{{ product.description }}</p>
+                        <hr>
+                        <div class="row">
+                            <div class="item-option-select">
+                                <h6>Detail Color</h6>
+                                <div class="btn-group btn-group-sm btn-group-toggle" data-toggle="buttons">
+                                    {% if product.category.type == 1 %}
+                                        {% for color in product.detail.colors %}
+                                            <label class="btn btn-light">
+                                                <input type="radio" name="radio_color"> {{ color }}
+                                            </label>
+                                        {% endfor %}
+                                    {% else %}
+                                        <label class="btn btn-light">
+                                            <input type="radio" name="radio_color"> {{ product.detail }}
+                                        </label>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="item-option-select">
+                                <h6>Detail Size</h6>
+                                <div class="btn-group btn-group-sm btn-group-toggle" data-toggle="buttons">
+                                    {% if product.category.type == 1 %}
+                                        {% for size in product.detail.sizes %}
+                                            <label class="btn btn-light">
+                                                <input type="radio" name="radio_size"> {{ size }}
+                                            </label>
+                                        {% endfor %}
+                                    {% else %}
+                                        <label class="btn btn-light">
+                                            <input type="radio" name="radio_size"> {{ product.detail }}
+                                        </label>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                        <hr>
+                        <a href="{% url 'order:add_order' product.pk %}" class="btn btn-primary">
+                            <span class="text">Add to cart</span> <i class="fas fa-shopping-cart"></i>
+                        </a>
+                    </article>
+                </main>
+            </div>
+        </div>
+        <!-- ============================ COMPONENT 1 END .// ================================= -->
+        <br>
+        <div class="row">
+            <div class="col-md-9">
+                <form method="post">
+                    {% csrf_token %}
+                    <div class="form-group">
+                        <label for="text">Text</label>
+                        <input type="text" id="text" name="text" class="form-control" placeholder="Text">
+                    </div>
+                    <div class="form-group">
+                        <label for="star">Star</label>
+                        <input name="star" type="number" id="star" class="form-control" placeholder="0" value="0" min="0" max="5">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Send</button>
+                </form>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-9">
+                <header class="section-heading">
+                    <h3>Customer Reviews </h3>
+                </header>
+                {% for comment in product.comment_set.all %}
+                    <article class="box mb-3">
+                        <div class="icontext w-100">
+                            <img src="{{ comment.owner.image.url }}" class="img-xs icon rounded-circle">
+                            <div class="text">
+                                <span class="date text-muted float-md-right">{{ comment.created_at }}</span>
+                                <h6 class="mb-1">{{ comment.owner.username }}</h6>
+                            </div>
+                        </div>
+                        <div class="mt-3">
+                            <p>
+                                {% for _ in comment.star|custom_range %}
+                                    <span class="fa fa-star"></span>
+                                {% endfor %}
+                            </p>
+                            <p>{{ comment.text }}</p>
+                        </div>
+                    </article>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</section>
 {% endblock %}

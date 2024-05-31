@@ -38,6 +38,9 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django_filters',
+    'django.contrib.humanize',
+    'rest_framework',
+    # 'django_google_sso',
     #local apps
     'account.apps.AccountConfig',
     'base.apps.BaseConfig',
@@ -69,7 +72,8 @@ TEMPLATES = [
                 'django.template.context_processors.request',
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
-                'product.context_processors.categories'
+                'product.context_processors.categories',
+                'order.context_processors.order_count',
             ],
         },
     },
@@ -134,3 +138,4 @@ STATICFILES_DIRS = [BASE_DIR / 'static/']
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 AUTH_USER_MODEL = 'account.User'
+

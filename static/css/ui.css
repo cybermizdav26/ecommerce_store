@@ -1350,7 +1350,7 @@ a[class*=card]:hover .title {
 /* ================== PAGE DETAILS ==================  */
 .gallery-wrap .img-big-wrap {
   margin-bottom: 10px;
-  border-radius: 0.37rem;
+  border-radius: 0.35rem;
   overflow: hidden;
   background-color: #fff;
 }

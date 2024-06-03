@@ -8,7 +8,7 @@ from order.models import Order, OrderItem
 from product.models import Product
 
 
-@login_required(login_url='/accounts/login/')
+@login_required(login_url='/account/login/')
 def cart(request):
     order = Order.objects.filter(customer=request.user,
                                  ordered=False).annotate(
@@ -21,7 +21,7 @@ def cart(request):
     return render(request, 'order/cart.html', context=context)
 
 
-@login_required(login_url='/accounts/login/')
+@login_required(login_url='/account/login/')
 def add_order(request, pk):
     product = get_object_or_404(Product, pk=pk)
     order, order_created = Order.objects.get_or_create(
@@ -57,33 +57,32 @@ def add_order(request, pk):
     return redirect('order:cart')
 
 
-@login_required(login_url='/accounts/login/')
+@login_required(login_url='/account/login/')
 def remove_order_item(request, pk):
     order_item = get_object_or_404(OrderItem, pk=pk)
     order_item.delete()
     return redirect('order:cart')
 
 
-@login_required(login_url='/accounts/login/')
+@login_required(login_url='/account/login')
 def reduce_order(request, pk):
-    order_item = get_object_or_404(OrderItem, pk=pk)
-    order = Order.objects.filter(
-        customer=request.user,
-        ordered=False
-    ).first()
+    order = Order.objects.filter(customer=request.user, ordered=False).first()
 
-    if order:
-        if order_item:
-            if order_item.quantity > 1:
-                order_item.quantity -= 1
-                order_item.save()
-            else:
-                order_item.delete()
-            messages.info(request, "Item quantity was updated")
-            return redirect("order:cart")
-        else:
-            messages.info(request, "This Item not in your cart")
-            return redirect("order:cart")
-    else:
-        messages.info(request, "You do not have an Order")
+    if not order:
+        messages.info(request, "You do not have an active order")
         return redirect("order:cart")
+
+    try:
+        order_item = get_object_or_404(OrderItem, pk=pk)
+    except OrderItem.DoesNotExist:
+        messages.info(request, "This item is not in your cart")
+        return redirect("order:cart")
+
+    if order_item.quantity > 1:
+        order_item.quantity -= 1
+        order_item.set_total_price()
+    else:
+        order_item.delete()
+
+    messages.info(request, "Item quantity was updated")
+    return redirect("order:cart")

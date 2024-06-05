@@ -1,13 +1,19 @@
 from rest_framework import generics
+from rest_framework.permissions import IsAuthenticated
 
-from product.api.version1.serializer import CategorySerializer, ProductsSerializer, ProductDetailSerializer
-from product.models import Category, Product
+from product.api.version1.serializer import CategorySerializer, ProductsSerializer, ProductDetailSerializer, \
+    CommentSerializer, CategoryCreateSerializer, CommentCreateSerializer
+from product.models import Category, Product, Comment
+
+
+class CategoryCreateAPIView(generics.CreateAPIView):
+    queryset = Category.objects.all()
+    serializer_class = CategoryCreateSerializer
 
 
 class CategoryListAPIView(generics.ListAPIView):
     queryset = Category.objects.all()
     serializer_class = CategorySerializer
-
     # def get_queryset(self):
     #     qs = super().get_queryset()
     #     id = [1, 3]
@@ -34,3 +40,12 @@ class ProductsByCategoryListAPIView(generics.ListAPIView):
 class ProductDetailAPIView(generics.RetrieveAPIView):
     queryset = Product.objects.all()
     serializer_class = ProductDetailSerializer
+
+
+class CommentCreateAPIView(generics.CreateAPIView):
+    queryset = Comment.objects.all()
+    serializer_class = CommentCreateSerializer
+    permission_classes = (IsAuthenticated,)
+
+    def perform_create(self, serializer):
+        return serializer.save(owner=self.request.user)

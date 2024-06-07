@@ -39,4 +39,5 @@ pyvenv.cfg
 .venv
 pip-selfcheck.json
 .idea
-mediadb.sqlite3
+db.sqlite3
+media

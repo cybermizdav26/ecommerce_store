@@ -25,12 +25,14 @@ SECRET_KEY = 'django-insecure-p%x2fc*!%_-p#4u(!_k7*p*^h%0zjy@(lu1!_k7b0f-py)g=j^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
 
+
 INSTALLED_APPS = [
+    'jazzmin',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -41,22 +43,24 @@ INSTALLED_APPS = [
     'django.contrib.humanize',
     'rest_framework',
     'rest_framework_simplejwt',
-    # 'django_google_sso',
+    'debug_toolbar',
+
     #local apps
     'account.apps.AccountConfig',
     'base.apps.BaseConfig',
     'order.apps.OrderConfig',
     'product.apps.ProductConfig'
 ]
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
+    "debug_toolbar.middleware.DebugToolbarMiddleware",
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+
 ]
 
 ROOT_URLCONF = 'ecommerce_store.urls'
@@ -143,5 +147,11 @@ AUTH_USER_MODEL = 'account.User'
 REST_FRAMEWORK = {
         'DEFAULT_AUTHENTICATION_CLASSES': (
                 'rest_framework_simplejwt.authentication.JWTAuthentication',
+                'rest_framework.authentication.SessionAuthentication',
     )
-    }
+}
+
+
+INTERNAL_IPS = [
+    "127.0.0.1",
+]

@@ -31,22 +31,22 @@ class Product(TimeStampModel):
         return self.title
 
     def save(self, *args, **kwargs):
-        self.validate_detail()
+        # self.validate_detail()
         super().save(*args, **kwargs)
 
-    def validate_detail(self):
-        category_type = self.category.type
-        if category_type == 1:
-            required_keys = {'size', 'color'}
-        else:
-            required_keys = set()
-
-        missing_keys = required_keys - self.detail.keys()
-        if missing_keys:
-            raise ValidationError(
-                "Missing required keys for category type '%(category_type)s': %(missing_keys)s",
-                params={'category_type': category_type, 'missing_keys': ', '.join(missing_keys)},
-            )
+    # def validate_detail(self):
+    #     category_type = self.category.type
+    #     if category_type == 1:
+    #         required_keys = {'size', 'color'}
+    #     else:
+    #         required_keys = set()
+    #
+    #     missing_keys = required_keys - self.detail.keys()
+    #     if missing_keys:
+    #         raise ValidationError(
+    #             "Missing required keys for category type '%(category_type)s': %(missing_keys)s",
+    #             params={'category_type': category_type, 'missing_keys': ', '.join(missing_keys)},
+    #         )
 
 
 class Image(TimeStampModel):

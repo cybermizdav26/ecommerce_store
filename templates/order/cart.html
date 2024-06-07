@@ -45,9 +45,9 @@
                                     <div class="col">
                                         <div class="input-group input-spinner">
                                             <div class="input-group-append">
-                                                <a href="{% url 'order:reduce_order' order_item.product.pk %}"><button class="btn btn-light"  type="button" id="button-minus">
-                                                    <i class="fa fa-minus"></i></button></a>
-                                            </div>
+                                                <a href="{% url 'order:reduce_order' order_item.pk %}">
+							                    <button class="btn btn-light" type="button" id="button-minus"> <i class="fa fa-minus"></i> </button> </a>
+							                </div>
                                             <input type="text" class="form-control" value="{{ order_item.quantity }}">
                                             <div class="input-group-append">
                                                 <a href="{% url 'order:add_order' order_item.product.pk %}" class="btn btn-light"  type="button" id="button-plus">

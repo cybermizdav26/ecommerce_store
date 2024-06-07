@@ -25,11 +25,19 @@ urlpatterns = [
     path('', include('product.urls')),
     path('account/', include('account.urls')),
     path('order/', include('order.urls')),
-    path('api/version1/user/', include('account.api.version1.urls')),
+    path('__debug__/', include("debug_toolbar.urls")),
+]
 
+api_urls = [
+    path('api/version1/user/', include('account.api.version1.urls')),
+    path('api/version1/product/', include('product.api.version1.urls')),
+    path('api/version1/order/', include('order.api.version1.urls')),
+
+    #TOKEN
     path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),
     path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
     path('api/token/verify/', TokenVerifyView.as_view(), name='token_verify'),
 ]
 
+urlpatterns += api_urls
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

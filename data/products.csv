@@ -1,2 +1,1001 @@
-category|title|description|price|quantity|detail|images
-Electronics|Telescope|60x60 3000m HD telescope mini video camera|25|100|{“1”:1}|/home/cyber_mizdav/Pictures/telescope.png /home/cyber_mizdav/Pictures/telescope2.png
+category,title,description,price,quantity,detail,images
+Suitcases & Bags,Rev,"Retinal hemorrhage, left eye",100,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mr,Symptomatic premature menopause,100,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,Other nondisplaced fracture of fourth cervical vertebra,100,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Dr,Non-pressure chronic ulcer of right heel and midfoot limited to breakdown of skin,100,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Rev,Displaced avulsion fracture (chip fracture) of left talus,100,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Fusion of spine, lumbar region",100,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Rev,"Unspecified injury of left vertebral artery, subsequent encounter",100,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Dr,"Unspecified juvenile osteochondrosis, unspecified hand",100,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Rev,"Salter-Harris Type II physeal fracture of upper end of humerus, unspecified arm, subsequent encounter for fracture with nonunion",100,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,"Nondisplaced comminuted fracture of shaft of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",100,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,"Unspecified nondisplaced fracture of surgical neck of unspecified humerus, subsequent encounter for fracture with nonunion",100,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Honorable,"Pedestrian injured in nontraffic accident involving unspecified motor vehicles, initial encounter",100,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,Spastic hemiplegia affecting right dominant side,100,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Ms,"Continuing pregnancy after elective fetal reduction of one fetus or more, third trimester, fetus 2",100,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mr,"Nondisplaced comminuted fracture of shaft of ulna, right arm, subsequent encounter for closed fracture with nonunion",100,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Rev,Gonococcal spondylopathy,100,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Ms,"Laceration without foreign body of unspecified lesser toe(s) with damage to nail, subsequent encounter",100,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,"Unspecified superficial injury of right ankle, sequela",100,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Ms,"Contact with sharp glass, undetermined intent, sequela",100,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Rev,"Complete traumatic amputation at unspecified hip joint, initial encounter",100,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,Disorders of visual cortex in (due to) neoplasm,100,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Honorable,"Other specified fracture of right ischium, subsequent encounter for fracture with nonunion",100,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Honorable,Galactorrhea,100,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mr,"Primary blast injury of transverse colon, subsequent encounter",100,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Poisoning by unspecified antipsychotics and neuroleptics, accidental (unintentional), sequela",100,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Salter-Harris Type II physeal fracture of lower end of ulna, left arm, subsequent encounter for fracture with routine healing",100,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,Painful ejaculation,100,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Honorable,"Exposure to smoke in uncontrolled fire, not in building or structure, sequela",100,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Other specific arthropathies, not elsewhere classified, unspecified elbow",100,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Dr,"Poisoning by emollients, demulcents and protectants, undetermined, sequela",100,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,"Nondisplaced fracture of lateral malleolus of left fibula, sequela",100,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mrs,Furuncle of face,100,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Honorable,"Laceration with foreign body of unspecified wrist, initial encounter",100,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Displaced comminuted fracture of unspecified patella, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",100,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,Non-pressure chronic ulcer of right calf with necrosis of bone,100,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,"Corrosion of unspecified degree of unspecified hand, unspecified site, subsequent encounter",100,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,Pain in right upper arm,100,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,"Other noninfective acute otitis externa, right ear",100,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Anaphylactic reaction due to unspecified food, subsequent encounter",100,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Dr,"Toxic effect of venom of other North and South American snake, accidental (unintentional)",100,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Dr,"Poisoning by antirheumatics, not elsewhere classified, accidental (unintentional)",100,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Dr,"Chronic hepatitis, unspecified",100,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mrs,"Pigmentary glaucoma, right eye, severe stage",100,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Honorable,"Unspecified fracture of shaft of humerus, unspecified arm, subsequent encounter for fracture with routine healing",100,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,"Bipolar disorder, in partial remission, most recent episode mixed",100,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Ms,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness of 1 hour to 5 hours 59 minutes",100,20,Red,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,Hypotension of hemodialysis,100,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mr,NIHSS score 37,100,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,"Nondisplaced transverse fracture of shaft of left radius, subsequent encounter for open fracture type I or II with nonunion",100,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,"Adverse effect of antiallergic and antiemetic drugs, initial encounter",100,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Other chondrocalcinosis, unspecified wrist",100,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Rev,"Pathological fracture in other disease, left foot, initial encounter for fracture",100,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Ms,"Anterior dislocation of left radial head, sequela",100,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Honorable,Intentional self-harm by drowning and submersion,100,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Dr,Non-pressure chronic ulcer of skin of other sites,100,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,Congenital dilatation of esophagus,100,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,Unspecified contact dermatitis due to other chemical products,100,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Ms,"Nondisplaced transverse fracture of shaft of humerus, unspecified arm, initial encounter for closed fracture",100,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Follicular lymphoma, unspecified, lymph nodes of axilla and upper limb",100,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,"Forced landing of other private fixed-wing aircraft injuring occupant, initial encounter",100,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Ms,"Military operations involving rubber bullets, civilian",100,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mrs,"Pedestrian on foot injured in collision with railway train or railway vehicle in nontraffic accident, subsequent encounter",100,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,"Abrasion, left ankle, subsequent encounter",100,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,"Displaced segmental fracture of shaft of left femur, subsequent encounter for open fracture type I or II with nonunion",100,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mrs,Hemorrhoids and perianal venous thrombosis,100,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Dr,"Sprain of right rotator cuff capsule, sequela",100,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Honorable,"Crushing injury of right hip with thigh, sequela",100,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,Puncture wound with foreign body of breast,100,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,"Antepartum hemorrhage with coagulation defect, unspecified, third trimester",100,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Honorable,Hypoplasia of aorta,100,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mr,"Subluxation of metacarpal (bone), proximal end of left hand",100,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"External constriction of right forearm, initial encounter",100,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,"Other spondylosis with radiculopathy, occipito-atlanto-axial region",100,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mr,Malignant neoplasm of long bones of lower limb,100,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,"Physeal arrest, humerus",100,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,"Unspecified fracture of shaft of right tibia, initial encounter for closed fracture",100,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Rev,"Edema of unspecified eye, unspecified eyelid",100,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Rev,Pedestrian on roller-skates injured in collision with other nonmotor vehicle in traffic accident,100,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Honorable,"Injury of peripheral nerves of neck, subsequent encounter",100,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,Nontoxic multinodular goiter,100,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,"Injury of other nerves at hip and thigh level, unspecified leg, initial encounter",100,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Dr,"Acute hematogenous osteomyelitis, hand",100,20,Green,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,"Unspecified physeal fracture of unspecified metatarsal, subsequent encounter for fracture with routine healing",100,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Dr,Injury of other muscles and tendons at lower leg level,100,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Rev,Psychophysiologic insomnia,100,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Honorable,"Burn of third degree of unspecified multiple fingers (nail), not including thumb, sequela",100,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,"Contact blepharoconjunctivitis, left eye",100,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Contusion of rectum, initial encounter",100,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mrs,"Poisoning by, adverse effect of and underdosing of chloramphenicol group",100,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Crushing injury of left forearm, initial encounter",100,20,Red,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,"Other infective bursitis, ankle and foot",100,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Honorable,"Displaced fracture of base of fifth metacarpal bone, right hand, subsequent encounter for fracture with nonunion",100,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mrs,Malignant carcinoid tumors of other sites,100,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Ms,Contracture of muscle,100,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Rev,"Breakdown (mechanical) of internal fixation device of right humerus, initial encounter",100,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Honorable,"Abrasion of right middle finger, sequela",100,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mrs,Other specified spirochetal infections,100,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,"Maternal care for (suspected) damage to fetus by drugs, not applicable or unspecified",100,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Rev,"Nondisplaced transverse fracture of shaft of humerus, left arm, initial encounter for closed fracture",100,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,Middle school as the place of occurrence of the external cause,100,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mr,Person on outside of three-wheeled motor vehicle injured in collision with railway train or railway vehicle in traffic accident,150,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mrs,Encounter for adjustment and management of other implanted hearing device,150,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Dr,"Burn of second degree of upper back, subsequent encounter",150,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,"Idiopathic chronic gout, left hip, with tophus (tophi)",150,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mrs,"Nondisplaced fracture of coronoid process of left ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC",150,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,Cerebral infarction due to thrombosis of right vertebral artery,150,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Dr,"Other injury of muscle, fascia and tendon of triceps, right arm",150,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,Benign lipomatous neoplasm of other sites,150,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mr,"Traumatic rupture of palmar ligament of left little finger at metacarpophalangeal and interphalangeal joint, initial encounter",150,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,Round hole of retina without detachment,150,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Rev,"Adverse effect of other drug primarily affecting the autonomic nervous system, initial encounter",150,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,"Rupture of synovium, left ankle",150,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mrs,"Corrosion of unspecified eye and adnexa, part unspecified, subsequent encounter",150,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mr,"Puncture wound with foreign body of abdominal wall, left lower quadrant with penetration into peritoneal cavity, subsequent encounter",150,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Honorable,"Passenger on bus injured in collision with two- or three-wheeled motor vehicle in traffic accident, sequela",150,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Ms,"Felty's syndrome, right wrist",150,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Nondisplaced fracture of proximal third of navicular [scaphoid] bone of left wrist, subsequent encounter for fracture with malunion",150,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Honorable,"Person on outside of three-wheeled motor vehicle injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, initial encounter",150,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,Postprocedural stenosis of right external ear canal,150,20,Red,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,"Unspecified open wound of unspecified great toe without damage to nail, subsequent encounter",150,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Honorable,Car driver injured in collision with fixed or stationary object in nontraffic accident,150,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Dr,"Unspecified fracture of lower end of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",150,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Unspecified open wound of left middle finger without damage to nail, initial encounter",150,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mr,Other specified injuries of external genitals,150,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Dr,Other specified disorders of conjunctiva,150,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,"Nondisplaced fracture of trapezoid [smaller multangular], right wrist, sequela",150,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Legal intervention involving bayonet, suspect injured, subsequent encounter",150,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mrs,Pneumonia due to staphylococcus aureus,150,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Dr,"Other stimulant abuse with stimulant-induced psychotic disorder, unspecified",150,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Rev,"Other specified crystal arthropathies, hand",150,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Displaced spiral fracture of shaft of right tibia, subsequent encounter for open fracture type I or II with malunion",150,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Honorable,"Displaced articular fracture of head of unspecified femur, subsequent encounter for open fracture type I or II with routine healing",150,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mr,Burn of third degree of unspecified single finger (nail) except thumb,150,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,Primary angle closure without glaucoma damage,150,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Honorable,"Other recurrent vertebral dislocation, lumbosacral region",150,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Unspecified nonpowered-aircraft accident injuring occupant, subsequent encounter",150,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Ms,"Chronic multifocal osteomyelitis, unspecified ankle and foot",150,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Rev,"Rheumatoid arthritis without rheumatoid factor, right ankle and foot",150,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,Malignant neoplasm of supraglottis,150,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Dr,Aphakia,150,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,"Laceration of pleura, subsequent encounter",150,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,Burn of left eyelid and periocular area,150,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Honorable,"Posterior dislocation of right acromioclavicular joint, subsequent encounter",150,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,"Nondisplaced spiral fracture of shaft of unspecified femur, subsequent encounter for open fracture type I or II with delayed healing",150,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Maternal care for other (suspected) fetal abnormality and damage, fetus 4",150,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mr,"Toxic effect of contact with other venomous fish, intentional self-harm",150,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Honorable,"Dislocation of right acromioclavicular joint, greater than 200% displacement, initial encounter",150,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,"Other physeal fracture of lower end of unspecified fibula, subsequent encounter for fracture with routine healing",150,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Dr,"Rheumatoid arthritis without rheumatoid factor, left shoulder",150,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Honorable,"Nondisplaced transverse fracture of shaft of left ulna, initial encounter for open fracture type I or II",150,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,Nondisplaced other extraarticular fracture of left calcaneus,150,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mr,"Other injury of flexor muscle, fascia and tendon of left index finger at forearm level, subsequent encounter",150,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,"Adolescent idiopathic scoliosis, thoracic region",150,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,"Military operations involving fragments from weapons, civilian, sequela",150,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Ms,"Torus fracture of lower end of right humerus, subsequent encounter for fracture with delayed healing",150,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mr,"Maternal care for other specified fetal problems, second trimester, not applicable or unspecified",150,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Ms,"Placentitis, second trimester, other fetus",150,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,Complications associated with artificial fertilization,150,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mrs,Unspecified traumatic displaced spondylolisthesis of sixth cervical vertebra,150,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Rev,"Exposure to unspecified man-made visible and ultraviolet light, sequela",150,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Rev,"Unspecified injury of muscle(s) and tendon(s) of peroneal muscle group at lower leg level, left leg, initial encounter",150,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Dr,"Displaced trimalleolar fracture of unspecified lower leg, initial encounter for closed fracture",150,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Dr,"Adhesions due to foreign body accidentally left in body following heart catheterization, initial encounter",150,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder",150,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,"Nondisplaced articular fracture of head of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",150,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"Exposure keratoconjunctivitis, right eye",150,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Dr,"Exudative age-related macular degeneration, left eye, with active choroidal neovascularization",150,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,"Chronic angle-closure glaucoma, left eye, mild stage",150,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,Corneal ulcer with hypopyon,150,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Rev,Corrosion of unspecified degree of right forearm,150,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,"Nondisplaced transverse fracture of shaft of unspecified ulna, initial encounter for closed fracture",150,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,"Obstruction due to foreign body accidentally left in body following aspiration, puncture or other catheterization",150,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Mr,Other subluxation and dislocation of ulnohumeral joint,150,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Rev,"Displaced unspecified fracture of left lesser toe(s), initial encounter for open fracture",150,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"Penetrating wound with foreign body of unspecified eyeball, initial encounter",150,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Ms,"Burn of unspecified degree of multiple sites of head, face, and neck, subsequent encounter",150,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Honorable,"Other specified joint disorders, unspecified hand",150,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,Other contact with alligator,150,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Ms,"Displaced fracture of medial cuneiform of unspecified foot, initial encounter for open fracture",150,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,"Major laceration of greater saphenous vein at hip and thigh level, unspecified leg, subsequent encounter",150,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Rev,"Other mechanical complication of internal left knee prosthesis, initial encounter",150,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Displaced transverse fracture of right patella, sequela",150,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Pathological fracture, left femur, subsequent encounter for fracture with malunion",150,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Rev,"Dislocation of metacarpophalangeal joint of left thumb, sequela",150,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Honorable,"Insect bite (nonvenomous), left knee, subsequent encounter",150,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Rev,"Physeal arrest, femur",150,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mrs,"Age-related osteoporosis with current pathological fracture, left humerus, subsequent encounter for fracture with nonunion",150,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,"Acute bronchiolitis, unspecified",150,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,"Injury of femoral nerve at hip and thigh level, unspecified leg",150,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Mr,"Continuing pregnancy after spontaneous abortion of one fetus or more, first trimester, fetus 2",150,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Dr,"Complication of surgical and medical care, unspecified, subsequent encounter",150,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Ms,Traumatic cerebral edema with loss of consciousness greater than 24 hours with return to pre-existing conscious level,150,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Dr,"Displaced supracondylar fracture without intracondylar extension of lower end of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",150,20,Red,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Other extraarticular fracture of lower end of right radius, subsequent encounter for open fracture type I or II with routine healing",150,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Dr,"Blister (nonthermal) of left hand, initial encounter",150,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,Other infestations,150,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mr,"Poisoning by other antidepressants, undetermined, sequela",150,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,"Laceration with foreign body of abdominal wall, unspecified quadrant with penetration into peritoneal cavity",150,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,Benign neoplasm of short bones of lower limb,150,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Dr,"Sickle-cell/Hb-C disease with crisis, unspecified",150,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Nondisplaced oblique fracture of shaft of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",200,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment,200,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mrs,"Nondisplaced subtrochanteric fracture of right femur, subsequent encounter for open fracture type I or II with delayed healing",200,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mr,"Displaced fracture of body of scapula, unspecified shoulder",200,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mr,"Military operation involving nuclear radiation effects of nuclear weapon, military personnel",200,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Dr,"Other fracture of lower end of unspecified ulna, sequela",200,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,"Unspecified fracture of lower end of left ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",200,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,Unspecified optic atrophy,200,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mr,"Displaced fracture of distal phalanx of right thumb, initial encounter for open fracture",200,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Rev,"Nondisplaced fracture of shaft of fourth metacarpal bone, right hand, sequela",200,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mrs,"Poisoning by, adverse effect of and underdosing of alpha-adrenoreceptor antagonists",200,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Rev,"Nondisplaced fracture of neck of unspecified radius, subsequent encounter for open fracture type I or II with malunion",200,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Abrasion of oral cavity, subsequent encounter",200,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Dr,"Nondisplaced Maisonneuve's fracture of unspecified leg, initial encounter for open fracture type I or II",200,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,Exposure to other man-made environmental factors,200,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"Unspecified injury of head of pancreas, sequela",200,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Ms,"Phlebitis and thrombophlebitis of iliac vein, bilateral",200,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,"Open bite of unspecified back wall of thorax with penetration into thoracic cavity, initial encounter",200,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,Other symptoms and signs involving the nervous and musculoskeletal systems,200,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,"Fatigue fracture of vertebra, thoracic region, subsequent encounter for fracture with routine healing",200,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Dr,"Subacute osteomyelitis, other site",200,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"Unstable burst fracture of third thoracic vertebra, subsequent encounter for fracture with routine healing",200,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Rev,Malformation of placenta,200,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Ms,Fracture of second cervical vertebra,200,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,Presence of other vascular implants and grafts,200,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Dr,"Open bite, unspecified foot, subsequent encounter",200,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Honorable,"Other fracture of shaft of left humerus, subsequent encounter for fracture with malunion",200,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,"Unspecified injury of unspecified blood vessel at abdomen, lower back and pelvis level, initial encounter",200,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Deprivation of water, initial encounter",200,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Ms,Follicular lymphoma grade I,200,20,Pink,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,"Major osseous defect, left ankle and foot",200,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,Fracture of olecranon process without intraarticular extension of ulna,200,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Other specified fracture of right pubis, sequela",200,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,Unspecified dementia,200,20,Green,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Rev,"Unspecified injury of left carotid artery, subsequent encounter",200,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,"Displaced fracture of head of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",200,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,"Palindromic rheumatism, unspecified elbow",200,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Dr,"Other incomplete lesion at C5 level of cervical spinal cord, subsequent encounter",200,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,Unspecified pedal cyclist injured in collision with other pedal cycle in traffic accident,200,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,Adverse effect of antiparkinsonism drugs and other central muscle-tone depressants,200,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Ms,"Puncture wound without foreign body of unspecified great toe without damage to nail, subsequent encounter",200,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,"Papyraceous fetus, third trimester, fetus 1",200,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,"Other slipping, tripping and stumbling without falling, initial encounter",200,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Honorable,"Unspecified physeal fracture of lower end of radius, unspecified arm, subsequent encounter for fracture with malunion",200,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Rev,Inspissated bile syndrome,200,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mr,"Partial traumatic amputation of left great toe, sequela",200,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Dr,"Continuing pregnancy after spontaneous abortion of one fetus or more, third trimester, fetus 3",200,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,Partial traumatic amputation at unspecified shoulder joint,200,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,"Lesion of sciatic nerve, unspecified lower limb",200,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,"Jumping or diving from boat striking bottom causing other injury, initial encounter",200,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Dr,Other superficial injuries of thumb,200,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,Traumatic rupture of other ligament of right little finger at metacarpophalangeal and interphalangeal joint,200,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Dr,"Anterior dislocation of right radial head, subsequent encounter",200,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Dr,"Unspecified injury of posterior tibial artery, left leg, sequela",200,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Ms,"Intentional self-harm by steam, hot vapors and hot objects",200,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Dr,"Malignant neoplasm of upper lip, inner aspect",200,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,Infection and inflammatory reaction due to internal right knee prosthesis,200,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Poisoning by unspecified narcotics, undetermined, initial encounter",200,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Partial traumatic transmetacarpal amputation of unspecified hand, subsequent encounter",200,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,"Poisoning by other anti-common-cold drugs, intentional self-harm",200,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"Equatorial staphyloma, right eye",200,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Displacement of aortic (bifurcation) graft (replacement), sequela",200,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mr,Subluxation and dislocation of L4/L5 lumbar vertebra,200,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,"Orbital myositis, left orbit",200,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Ms,"Strain of unspecified muscle and tendon at ankle and foot level, unspecified foot, initial encounter",200,20,Red,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,"Fracture of xiphoid process, sequela",200,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Honorable,"Ganglion, unspecified shoulder",200,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mrs,"Diffuse acute infarction of intestine, part unspecified",200,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Unspecified injury of blood vessel of left ring finger, subsequent encounter",200,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,"Exposure to other prolonged low air pressure, sequela",200,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Ms,"Drowning and submersion due to falling or jumping from crushed unspecified watercraft, subsequent encounter",200,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Ms,Breakdown (mechanical) of internal fixation device of bone of right lower leg,200,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Ms,"War operations involving destruction of aircraft due to onboard fire, civilian",200,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,"Military operations involving other destruction of aircraft, military personnel",200,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Honorable,"Other specified cause of accidental non-transport drowning and submersion, sequela",200,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mrs,"Sprain of metatarsophalangeal joint of unspecified lesser toe(s), subsequent encounter",200,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,"Poisoning by other general anesthetics, assault, initial encounter",200,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,Simple supracondylar fracture without intercondylar fracture of humerus,200,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mr,"Primary hypotony of eye, bilateral",200,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,Unspecified sprain of unspecified thumb,200,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Rev,"Contact with lifting and transmission devices, not elsewhere classified",200,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,Laceration of blood vessel of unspecified finger,200,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Rev,Spiral fracture of shaft of fibula,200,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Poisoning by, adverse effect of and underdosing of cocaine",200,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,Torsion of ovary and ovarian pedicle,200,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Ms,"Car driver injured in collision with two- or three-wheeled motor vehicle in traffic accident, subsequent encounter",200,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Polyarthritis, unspecified",200,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,"Longitudinal vaginal septum, microperforate, right side",200,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,"Nondisplaced articular fracture of head of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",200,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mrs,"Pressure ulcer of right buttock, stage 1",200,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,"Unspecified open wound of anus, initial encounter",200,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mr,"Open bite, unspecified hip, initial encounter",200,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Rheumatoid nodule, unspecified ankle and foot",200,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Ms,"Unspecified subluxation of right wrist and hand, sequela",200,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Ms,"Central retinal vein occlusion, bilateral, with macular edema",200,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mrs,"Corrosion of third degree of left forearm, initial encounter",200,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mrs,Erysipelothrix sepsis,200,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Rev,Eczematous dermatitis of eyelid,200,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,Cleft hard palate with cleft soft palate,200,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Toxic effect of venom of scorpion, intentional self-harm, sequela",200,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Ms,"Unspecified injury of axillary or brachial vein, right side",149,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,"Post-traumatic urethral stricture, female",149,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,"Other acquired stenosis of external ear canal, bilateral",149,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,"Achilles tendinitis, left leg",149,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,Contusion of right hand,149,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,"Superficial foreign body of breast, left breast, sequela",149,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Pathological fracture in other disease, right hand",149,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Unspecified dislocation of right ring finger, subsequent encounter",149,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,"Infantile idiopathic scoliosis, thoracolumbar region",149,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mr,Osseous and subluxation stenosis of intervertebral foramina of pelvic region,149,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Honorable,"Displaced other extraarticular fracture of left calcaneus, sequela",149,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Rev,"Contusion of lung, unilateral, subsequent encounter",149,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,"Central subluxation of unspecified hip, sequela",149,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Other injury of thoracic trachea, initial encounter",149,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Ms,"Recession of chamber angle, left eye",149,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Ms,Underdosing of unspecified general anesthetics,149,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,Nondisplaced fracture of neck of other metacarpal bone,149,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,"Labyrinthine fistula, left ear",149,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,Frontal lobe and executive function deficit following cerebral infarction,149,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Honorable,"Military operations involving other firearms discharge, civilian, initial encounter",149,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mr,"Burn of second degree of left toe(s) (nail), subsequent encounter",149,20,Red,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Contusion of nose, sequela",149,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Ms,"Nondisplaced comminuted fracture of shaft of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",149,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,"Follicular lymphoma, unspecified, unspecified site",149,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mr,Cutaneous blastomycosis,149,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Ms,Rheumatoid myopathy with rheumatoid arthritis,149,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Rev,"Solitary bone cyst, unspecified ankle and foot",149,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Honorable,33 weeks gestation of pregnancy,149,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,Excessive crying of infant (baby),149,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Other cervical disc degeneration, unspecified cervical region",149,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,"Infection and inflammatory reaction due to internal fixation device of left humerus, sequela",149,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Dr,"Displaced other extraarticular fracture of unspecified calcaneus, sequela",149,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Nondisplaced spiral fracture of shaft of left tibia, subsequent encounter for closed fracture with malunion",149,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,"Poisoning by, adverse effect of and underdosing of penicillins",149,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Rev,"Underdosing of saline and osmotic laxatives, initial encounter",149,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Ms,Fracture of subcondylar process of mandible,149,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Honorable,"Postprocedural shock unspecified, sequela",149,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mrs,"Superficial injury of wrist, hand and fingers",149,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,"Other acquired stenosis of external ear canal, unspecified ear",149,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mrs,"Poisoning by tetracyclines, assault, sequela",149,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Ms,"Other fracture of left great toe, sequela",149,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,Other and unspecified injury to sacral spinal cord,149,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Ms,"Poisoning by unspecified topical agent, assault, subsequent encounter",149,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,"Displaced oblique fracture of shaft of unspecified radius, subsequent encounter for closed fracture with routine healing",149,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Dr,Unspecified blepharitis right lower eyelid,149,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Honorable,"Frostbite with tissue necrosis of unspecified hand, sequela",149,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Mr,"Displaced comminuted fracture of shaft of unspecified tibia, subsequent encounter for closed fracture with routine healing",149,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Honorable,Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,149,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Rev,"Other articular cartilage disorders, right hand",149,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,"Unspecified trochanteric fracture of right femur, subsequent encounter for open fracture type I or II with routine healing",149,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,"Insect bite (nonvenomous) of left ear, initial encounter",149,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mrs,"Unspecified physeal fracture of lower end of ulna, unspecified arm, subsequent encounter for fracture with nonunion",149,20,Pink,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Strain of muscle, fascia and tendon of abdomen, initial encounter",149,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,Unspecified choroidal degeneration,149,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Honorable,"Nondisplaced simple supracondylar fracture without intercondylar fracture of unspecified humerus, initial encounter for closed fracture",149,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,Displaced transverse fracture of shaft of right radius,149,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, right eye",149,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Rev,Acute epiglottitis,149,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Dr,"Person on outside of bus injured in collision with fixed or stationary object in nontraffic accident, subsequent encounter",149,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Ms,Open bite of wrist,149,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,"Other secondary gout, right ankle and foot",149,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mr,"Other injury of intrinsic muscle, fascia and tendon of unspecified finger at wrist and hand level, initial encounter",149,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,Dislocation of septal cartilage of nose,149,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Salter-Harris Type IV physeal fracture of lower end of humerus, left arm, sequela",149,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Rev,"Toxic effect of herbicides and fungicides, accidental (unintentional), sequela",149,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,"Drug-induced chronic gout, unspecified hip, without tophus (tophi)",149,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Merkel cell carcinoma of left upper limb, including shoulder",149,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Honorable,"Contusion of right knee, subsequent encounter",149,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mr,"Poisoning by, adverse effect of and underdosing of hemostatic drugs",149,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Ms,"Unspecified nondisplaced fracture of surgical neck of unspecified humerus, subsequent encounter for fracture with routine healing",149,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Maternal care for anti-D [Rh] antibodies, unspecified trimester, fetus 2",149,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mr,"Stable burst fracture of third thoracic vertebra, subsequent encounter for fracture with routine healing",149,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,Abnormal cytological findings in specimens from other digestive organs and abdominal cavity,149,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mr,Crohn's disease of both small and large intestine,149,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Dr,Postprocedural hematoma of the spleen following other procedure,149,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Honorable,Other fracture of shaft of unspecified femur,149,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,"Subluxation of T11/T12 thoracic vertebra, subsequent encounter",149,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Person on outside of bus injured in collision with car, pick-up truck or van in traffic accident",149,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,"Person on outside of bus injured in collision with pedestrian or animal in traffic accident, initial encounter",149,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,Breakdown (mechanical) of internal fixation device of vertebrae,149,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Honorable,"Military operations involving incendiary bullet, civilian, initial encounter",149,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Ms,"Inferior dislocation of right acromioclavicular joint, sequela",149,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Ms,"Unspecified injury of unspecified blood vessel at shoulder and upper arm level, left arm",149,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Rev,Torus fracture of lower end of right radius,149,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,Puncture wound with foreign body of unspecified hand,149,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Nondisplaced trimalleolar fracture of left lower leg, subsequent encounter for open fracture type I or II with nonunion",149,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Honorable,"Other fracture of upper end of unspecified radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",149,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Honorable,"Poisoning by thrombolytic drug, assault, initial encounter",149,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Laceration without foreign body of left eyelid and periocular area, initial encounter",149,20,Pink,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,"Breakdown (mechanical) of internal fixation device of right humerus, subsequent encounter",149,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,Unspecified subluxation of left wrist and hand,149,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mrs,Unspecified complication of foreign body accidentally left in body following infusion or transfusion,149,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mrs,"Pedestrian on foot injured in collision with heavy transport vehicle or bus in nontraffic accident, sequela",149,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,"Other physeal fracture of upper end of radius, left arm, initial encounter for closed fracture",149,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,"Displaced fracture of triquetrum [cuneiform] bone, left wrist, subsequent encounter for fracture with routine healing",149,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Dr,"Injury of median nerve at forearm level, right arm, subsequent encounter",149,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Rev,"Displaced fracture of shaft of fourth metacarpal bone, left hand, subsequent encounter for fracture with delayed healing",149,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,Burns involving 60-69% of body surface with 10-19% third degree burns,149,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,"Other tear of unspecified meniscus, current injury, right knee, subsequent encounter",149,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mr,"Motorcycle driver injured in collision with unspecified motor vehicles in traffic accident, subsequent encounter",149,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Ms,"Breakdown (mechanical) of implanted penile prosthesis, subsequent encounter",199,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mrs,"Laceration of muscle, fascia and tendon of other parts of biceps, left arm",199,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mr,Other fracture of shaft of right femur,199,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,Decreased fetal movements,199,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,"Ligneous conjunctivitis, right eye",199,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mr,Machinery accident on board other powered watercraft,199,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mrs,"Pregnancy related exhaustion and fatigue, second trimester",199,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,"Unspecified effects of lightning, subsequent encounter",199,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,"Unspecified open wound of left hand, initial encounter",199,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Nondisplaced bicondylar fracture of unspecified tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",199,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mr,"Unspecified open wound of right ring finger without damage to nail, subsequent encounter",199,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,Breakdown (mechanical) of intraocular lens,199,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Complete traumatic metacarpophalangeal amputation of left thumb, initial encounter",199,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Arthritis due to other bacteria, right ankle and foot",199,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Ms,"Other fracture of unspecified great toe, initial encounter for closed fracture",199,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,"Displaced fracture of shaft of third metacarpal bone, left hand, subsequent encounter for fracture with delayed healing",199,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Passenger of special industrial vehicle injured in nontraffic accident, initial encounter",199,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Dr,"Laceration of muscle, fascia and tendon of other parts of biceps, unspecified arm, subsequent encounter",199,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,"Burn involving larynx and trachea with lung, subsequent encounter",199,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Dr,"Corrosion of unspecified degree of multiple sites of left lower limb, except ankle and foot",199,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,"Injury of cutaneous sensory nerve at shoulder and upper arm level, right arm, subsequent encounter",199,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mr,"Nondisplaced fracture of proximal phalanx of right ring finger, subsequent encounter for fracture with delayed healing",199,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mrs,"Drug use complicating pregnancy, childbirth, and the puerperium",199,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,"Other specified injury of left renal artery, sequela",199,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,"Unspecified intracranial injury without loss of consciousness, subsequent encounter",199,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Pathological fracture in other disease, left femur, subsequent encounter for fracture with malunion",199,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Rev,"Unspecified fracture of shaft of left femur, sequela",199,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Dr,"Displaced fracture of lateral malleolus of unspecified fibula, initial encounter for open fracture type IIIA, IIIB, or IIIC",199,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Partial traumatic amputation at level between right hip and knee, initial encounter",199,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Dr,"Displaced comminuted fracture of left patella, initial encounter for closed fracture",199,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,"Driver of pick-up truck or van injured in collision with two- or three-wheeled motor vehicle in traffic accident, subsequent encounter",199,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Displaced comminuted fracture of shaft of unspecified fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",199,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Honorable,Postprocedural hypoparathyroidism,199,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Puncture wound with foreign body of left middle finger without damage to nail, sequela",199,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,"Dislocation of unspecified interphalangeal joint of unspecified thumb, subsequent encounter",199,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mrs,"Other fracture of unspecified femur, subsequent encounter for closed fracture with nonunion",199,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,Puncture wound with foreign body of left ring finger with damage to nail,199,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mrs,"Other specified fracture of left pubis, initial encounter for closed fracture",199,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Honorable,Exfoliation due to erythematous condition involving 40-49 percent of body surface,199,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,Sprain of other ligament of left ankle,199,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,"Interstitial myositis, right lower leg",199,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Ms,"Toxic effect of coral snake venom, undetermined",199,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,Contusion of left little finger with damage to nail,199,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Encounter for contraceptive management, unspecified",199,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Ms,Changes in skin texture,199,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Mrs,Unspecified pterygium of right eye,199,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,Postprocedural pneumothorax and air leak,199,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mrs,Exposure of graft of urinary organ,199,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Ms,"Unspecified open wound of abdominal wall, right upper quadrant without penetration into peritoneal cavity, sequela",199,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mr,Unspecified placental disorder,199,20,Green,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Dr,"Displaced fracture of proximal phalanx of right thumb, subsequent encounter for fracture with routine healing",199,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,"Unspecified dislocation of unspecified toe(s), initial encounter",199,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Ms,Hemangioma of intra-abdominal structures,199,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Rev,"Displaced fracture of lateral malleolus of right fibula, subsequent encounter for open fracture type I or II with nonunion",199,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mr,"Activity, soccer",199,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,Dislocation of metacarpophalangeal joint of unspecified finger,199,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Dr,Other gonococcal infections,199,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Ms,"Other specified injury of superficial vein at shoulder and upper arm level, left arm",199,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Ms,"Poisoning by loop [high-ceiling] diuretics, intentional self-harm, subsequent encounter",199,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,"Puncture wound without foreign body of left shoulder, sequela",199,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Ms,"Other specified injury of intercostal blood vessels, right side, sequela",199,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Rev,"Bucket-handle tear of unspecified meniscus, current injury, unspecified knee, subsequent encounter",199,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mr,"Toxic effect of tetrachloroethylene, assault, subsequent encounter",199,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Rev,Contact with nonvenomous amphibians,199,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Honorable,"Poisoning by other agents primarily acting on the respiratory system, accidental (unintentional), subsequent encounter",199,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Honorable,"Acute serous otitis media, recurrent, left ear",199,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mrs,Displaced lateral mass fracture of first cervical vertebra,199,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,"Sprain of interphalangeal joint of right lesser toe(s), subsequent encounter",199,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Ms,Puncture wound with foreign body of penis,199,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Rev,"Burn of second degree of unspecified shoulder, subsequent encounter",199,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Rev,"Displaced fracture of lesser trochanter of right femur, subsequent encounter for closed fracture with malunion",199,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Honorable,Malignant neoplasm of orbit,199,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Rev,"Pregnancy care for patient with recurrent pregnancy loss, unspecified trimester",199,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,"Other juvenile arthritis, unspecified elbow",199,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Honorable,"Unspecified open wound of left thumb with damage to nail, sequela",199,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mrs,"Corrosion of third degree of head, face, and neck",199,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Rev,"Other specific joint derangements, not elsewhere classified",199,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mr,"Bennett's fracture, unspecified hand, subsequent encounter for fracture with routine healing",199,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Other chronic nonsuppurative otitis media, left ear",199,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,Acquired absence of left shoulder,199,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,"Unspecified fracture of fourth lumbar vertebra, initial encounter for open fracture",199,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Rev,"Unspecified injury of flexor muscle, fascia and tendon of other finger at wrist and hand level, initial encounter",199,20,Green,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mrs,"Osteitis condensans, hand",199,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,"Underdosing of other opioids, subsequent encounter",199,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Honorable,"Other superficial bite of right thigh, initial encounter",199,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"Unspecified pedal cyclist injured in collision with other pedal cycle in traffic accident, initial encounter",199,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mrs,"Laceration of unspecified muscles, fascia and tendons at thigh level, left thigh, subsequent encounter",199,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Ms,"Bent bone of right ulna, sequela",199,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mrs,Basal cell carcinoma of skin of unspecified ear and external auricular canal,199,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,"Other fracture of upper end of unspecified radius, subsequent encounter for closed fracture with malunion",199,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,Cutaneous abscess of unspecified hand,199,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,"Unspecified open wound of unspecified forearm, sequela",199,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,"Other displaced fracture of fourth cervical vertebra, initial encounter for closed fracture",199,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mr,"Blister (nonthermal), unspecified thigh",199,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,"Nondisplaced fracture of distal phalanx of left thumb, subsequent encounter for fracture with routine healing",199,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Dr,"Other chorioretinal inflammations, bilateral",199,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Dr,"Person on outside of three-wheeled motor vehicle injured in collision with railway train or railway vehicle in traffic accident, initial encounter",199,20,Red,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,"Unspecified displaced fracture of sixth cervical vertebra, subsequent encounter for fracture with nonunion",199,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Honorable,"Puncture wound with foreign body of unspecified back wall of thorax without penetration into thoracic cavity, initial encounter",199,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Rev,Contusion of left foot,199,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mr,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a cardiac catheterization,148,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Dr,"Displaced fracture of greater tuberosity of unspecified humerus, subsequent encounter for fracture with malunion",148,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Dr,"Toxic effect of venom of other Australian snake, intentional self-harm, sequela",148,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,Unspecified dislocation of right thumb,148,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,"Foreign body in conjunctival sac, unspecified eye, subsequent encounter",148,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,"Strain of intrinsic muscle, fascia and tendon of other finger at wrist and hand level, initial encounter",148,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Ms,"Pedestrian on skateboard injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, subsequent encounter",148,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Unspecified open wound of unspecified external genital organs, male, initial encounter",148,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,"Unspecified injury of muscle(s) and tendon(s) of peroneal muscle group at lower leg level, unspecified leg, initial encounter",148,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,Military operations involving explosion of unspecified marine weapon,148,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mrs,"Underdosing of antifungal antibiotics, systemically used, initial encounter",148,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,West Nile virus infection,148,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Mrs,Unspecified superficial injury of scalp,148,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Dr,"Other osteoporosis with current pathological fracture, unspecified site, subsequent encounter for fracture with delayed healing",148,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Ms,"Unspecified complication of procedure, sequela",148,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Dr,"Toxic effect of soaps, undetermined, subsequent encounter",148,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mr,"Corrosion of first degree of unspecified elbow, initial encounter",148,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Rev,"Driver of special construction vehicle injured in traffic accident, sequela",148,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Dr,"Displaced supracondylar fracture without intracondylar extension of lower end of right femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",148,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified without loss of consciousness, subsequent encounter",148,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,"Displaced fracture of proximal phalanx of unspecified lesser toe(s), subsequent encounter for fracture with nonunion",148,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Dr,"Unspecified subluxation of right middle finger, subsequent encounter",148,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Nondisplaced transverse fracture of shaft of left ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with routine healing",148,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mrs,"Traumatic rupture of volar plate of left middle finger at metacarpophalangeal and interphalangeal joint, initial encounter",148,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,"Nondisplaced longitudinal fracture of unspecified patella, initial encounter for closed fracture",148,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,Foreign body or object entering through skin,148,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mr,"Laceration without foreign body of unspecified shoulder, subsequent encounter",148,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,"Other mechanical complication of other implanted electronic stimulator of nervous system, initial encounter",148,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,"Drug-induced gout, ankle and foot",148,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Ms,"Poisoning by loop [high-ceiling] diuretics, undetermined, sequela",148,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Honorable,"Nondisplaced oblique fracture of shaft of unspecified tibia, subsequent encounter for open fracture type I or II with nonunion",148,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,"Poisoning by selective serotonin and norepinephrine reuptake inhibitors, assault, sequela",148,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Ms,"Driver of bus injured in collision with unspecified motor vehicles in traffic accident, sequela",148,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mr,"Nondisplaced fracture of proximal phalanx of unspecified finger, initial encounter for open fracture",148,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Corrosion of third degree of multiple left fingers (nail), including thumb, sequela",148,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Rev,Postencephalitic parkinsonism,148,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,"Burn of third degree of multiple right fingers (nail), including thumb, sequela",148,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"Nondisplaced transverse fracture of shaft of right femur, initial encounter for open fracture type IIIA, IIIB, or IIIC",148,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,"Internal ophthalmoplegia (complete) (total), left eye",148,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Ms,"Penetrating wound of orbit with or without foreign body, right eye",148,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mrs,"Poisoning by iminostilbenes, accidental (unintentional), sequela",148,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Rev,"Strain of unspecified muscles, fascia and tendons at forearm level",148,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Rev,"Nondisplaced fracture of medial cuneiform of right foot, subsequent encounter for fracture with routine healing",148,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Nondisplaced fracture of shaft of fourth metacarpal bone, left hand, sequela",148,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Rev,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity",148,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mrs,Other abnormalities of gait and mobility,148,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Leakage of surgically created arteriovenous fistula, sequela",148,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Honorable,"Unspecified physeal fracture of lower end of humerus, right arm, subsequent encounter for fracture with routine healing",148,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Rev,"Unspecified injury of unspecified carotid artery, subsequent encounter",148,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Rev,"Unspecified fracture of fifth lumbar vertebra, initial encounter for closed fracture",148,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Ms,"Malignant melanoma of unspecified upper limb, including shoulder",148,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Rev,Superficial injury of unspecified part of head,148,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mr,"Corrosion of third degree of left palm, subsequent encounter",148,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Ms,"Unspecified injury of femoral vein at hip and thigh level, right leg",148,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,Unspecified open wound of right little finger without damage to nail,148,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Fracture of bony thorax, part unspecified, subsequent encounter for fracture with delayed healing",148,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Ms,Pressure ulcer of left buttock,148,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Dr,Malignant neoplasm of overlapping sites of vulva,148,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mrs,"Other bursitis, not elsewhere classified, right hip",148,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,"Poisoning by methadone, accidental (unintentional), initial encounter",148,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,Other specified perinatal digestive system disorders,148,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Rev,"Villonodular synovitis (pigmented), unspecified hand",148,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mr,"Laceration with foreign body of unspecified hand, initial encounter",148,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Ms,"Poisoning by antidiarrheal drugs, intentional self-harm, subsequent encounter",148,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Honorable,Other superficial bite of breast,148,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Ms,"Spinal enthesopathy, multiple sites in spine",148,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Dr,Unspecified fracture of navicular [scaphoid] bone of left wrist,148,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Rev,"Abscess of tendon sheath, shoulder",148,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Ms,Adverse effect of unspecified agents primarily affecting the gastrointestinal system,148,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Honorable,"Contact with hot drinks, initial encounter",148,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,"Anterior dislocation of left radial head, initial encounter",148,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mr,Other specified injury of left renal vein,148,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mr,Non-pressure chronic ulcer of left calf with unspecified severity,148,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,"Passenger of ambulance or fire engine injured in nontraffic accident, subsequent encounter",148,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Displaced segmental fracture of shaft of left fibula, subsequent encounter for open fracture type I or II with delayed healing",148,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Fall on board other unpowered watercraft, subsequent encounter",148,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Honorable,Tanapox virus disease,148,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,"Nondisplaced fracture of lateral condyle of unspecified tibia, subsequent encounter for closed fracture with malunion",148,20,Pink,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Dr,"Displaced fracture of proximal phalanx of right little finger, subsequent encounter for fracture with nonunion",148,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,Postprocedural stenosis of external ear canal,148,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Dr,"Injury of other flexor muscle, fascia and tendon at forearm level",148,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,"Dislocation of unspecified interphalangeal joint of unspecified finger, initial encounter",148,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Honorable,"Crushing injury of unspecified part(s) of right wrist, hand and fingers, initial encounter",148,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mrs,"Torus fracture of upper end of right ulna, subsequent encounter for fracture with delayed healing",148,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,Nonrheumatic pulmonary valve stenosis,148,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Adverse effect of inhaled anesthetics, subsequent encounter",148,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,"Other fracture of shaft of right tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",148,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Honorable,"Toxic effect of taipan venom, accidental (unintentional), subsequent encounter",148,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Honorable,Chronic embolism and thrombosis of right popliteal vein,148,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,Acrodermatitis chronica atrophicans,148,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,"Fracture of unspecified phalanx of right thumb, initial encounter for closed fracture",148,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,Encounter for fitting and adjustment of external right breast prosthesis,148,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,"Corrosion of second degree of multiple sites of right wrist and hand, subsequent encounter",148,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Honorable,"Unspecified fracture of first thoracic vertebra, initial encounter for closed fracture",148,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Dr,"Corrosion of first degree of unspecified upper arm, subsequent encounter",148,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,Unspecified fracture of upper end of left radius,148,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Physeal arrest, lower leg, unspecified",148,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Honorable,"Infections of kidney in pregnancy, first trimester",148,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Ms,"Unspecified fracture of upper end of left humerus, initial encounter for open fracture",148,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Honorable,Late syphilis,148,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,Struck by object due to collapse of building,198,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Passenger in three-wheeled motor vehicle injured in collision with pedestrian or animal in nontraffic accident, subsequent encounter",198,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Ms,"Laceration of deep palmar arch of right hand, subsequent encounter",198,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Ms,"Insect bite (nonvenomous), left lower leg, subsequent encounter",198,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,Encounter for genetic testing of male for procreative management,198,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Contusion, laceration, and hemorrhage of brainstem with loss of consciousness of 1 hour to 5 hours 59 minutes, initial encounter",198,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,"Burn of second degree of ear [any part, except ear drum]",198,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Honorable,"Poisoning by androgens and anabolic congeners, assault",198,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Honorable,Infection of other part of genital tract in pregnancy,198,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Rev,Chondromalacia,198,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Cutaneous abscess, furuncle and carbuncle of face",198,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mr,"Nondisplaced fracture of base of neck of unspecified femur, subsequent encounter for closed fracture with delayed healing",198,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Dr,"Unspecified superficial injuries of breast, unspecified breast, initial encounter",198,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Rev,"Carcinoma in situ of skin of left upper limb, including shoulder",198,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mrs,"Salter-Harris Type I physeal fracture of upper end of radius, right arm, initial encounter for closed fracture",198,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Ms,"Strain of flexor muscle, fascia and tendon of left little finger at wrist and hand level",198,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,"Poisoning by unspecified drugs, medicaments and biological substances, assault",198,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Honorable,Person on outside of pick-up truck or van injured in collision with pedestrian or animal in nontraffic accident,198,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Dr,"Photokeratitis, bilateral",198,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Dr,"Displaced transverse fracture of right acetabulum, subsequent encounter for fracture with nonunion",198,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Honorable,"Other injury of extensor or abductor muscles, fascia and tendons of right thumb at forearm level, subsequent encounter",198,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mr,"Traumatic subdural hemorrhage with loss of consciousness greater than 24 hours with return to pre-existing conscious level, initial encounter",198,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mr,"Contracture, right wrist",198,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,"Crushing injury of right great toe, subsequent encounter",198,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mr,Contusion of upper arm,198,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Ms,"Displaced fracture of neck of second metacarpal bone, left hand, subsequent encounter for fracture with delayed healing",198,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Rev,"Superficial foreign body of left back wall of thorax, subsequent encounter",198,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mr,"Poisoning by, adverse effect of and underdosing of antiparkinsonism drugs and other central muscle-tone depressants",198,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Rev,"Monocular esotropia with other noncomitancies, right eye",198,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Rev,"Mast cell leukemia, in relapse",198,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mrs,"Laceration with foreign body of left lesser toe(s) with damage to nail, sequela",198,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,Secondary pigmentary degeneration,198,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,Intestine transplant status,198,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Ms,"Unspecified displaced fracture of seventh cervical vertebra, initial encounter for open fracture",198,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Rev,"Military operation involving nuclear radiation effects of nuclear weapon, military personnel, sequela",198,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,"War operations, unspecified, initial encounter",198,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Ms,"Underdosing of unspecified anesthetics, sequela",198,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Honorable,"Displaced fracture of coronoid process of right ulna, initial encounter for open fracture type IIIA, IIIB, or IIIC",198,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Honorable,"Poisoning by predominantly alpha-adrenoreceptor agonists, assault, sequela",198,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Ms,Complications of anesthesia during pregnancy,198,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mr,Acute embolism and thrombosis of unspecified deep veins of right proximal lower extremity,198,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Rev,"Pathological fracture in other disease, left foot, subsequent encounter for fracture with malunion",198,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,"Pathological dislocation of unspecified wrist, not elsewhere classified",198,20,Pink,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Gout due to renal impairment, elbow",198,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,"Nondisplaced segmental fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with nonunion",198,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,"Deaf nonspeaking, not elsewhere classified",198,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Poisoning by other antiepileptic and sedative-hypnotic drugs, accidental (unintentional), sequela",198,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mrs,"Nondisplaced comminuted fracture of shaft of unspecified tibia, subsequent encounter for open fracture type I or II with routine healing",198,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mr,"Other injury of intrinsic muscle, fascia and tendon of left middle finger at wrist and hand level, initial encounter",198,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,Other fetal stress complicating labor and delivery,198,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,Rheumatic mitral insufficiency,198,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Dr,"Stress fracture, left radius",198,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,"Unspecified superficial injury of right forearm, sequela",198,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Honorable,"Displaced articular fracture of head of unspecified femur, initial encounter for closed fracture",198,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Honorable,Unspecified disorder of visual pathways,198,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,Infection and inflammatory reaction due to internal right hip prosthesis,198,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mr,"Nondisplaced fracture of proximal phalanx of left thumb, subsequent encounter for fracture with routine healing",198,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Dr,Finding of other psychotropic drug in blood,198,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Rev,"Blister (nonthermal) of unspecified eyelid and periocular area, initial encounter",198,20,Red,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Poisoning by vitamins, undetermined, subsequent encounter",198,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Honorable,"Other specified injury of posterior tibial artery, left leg, subsequent encounter",198,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,Boarding-house as the place of occurrence of the external cause,198,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Rev,Agenesis and underdevelopment of nose,198,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,"Open bite of unspecified part of thorax, sequela",198,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Rev,Unavailability and inaccessibility of health-care facilities,198,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Poisoning by other bacterial vaccines, undetermined, subsequent encounter",198,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mrs,Sleep deprivation,198,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Dr,"Person on outside of car injured in collision with other type car in nontraffic accident, initial encounter",198,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mrs,"Coxa plana, right hip",198,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,"Poisoning by amphetamines, accidental (unintentional), sequela",198,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,"Unstable burst fracture of first cervical vertebra, initial encounter for open fracture",198,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,"Poisoning by loop [high-ceiling] diuretics, undetermined",198,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Ms,"Laceration of intrinsic muscle, fascia and tendon of right thumb at wrist and hand level, sequela",198,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,"Insect bite (nonvenomous), unspecified foot, subsequent encounter",198,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mr,"Fracture of unspecified metatarsal bone(s), left foot, subsequent encounter for fracture with malunion",198,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Dr,Unspecified motorcycle rider injured in collision with unspecified motor vehicles in nontraffic accident,198,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Ms,"Underdosing of other opioids, initial encounter",198,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Ms,"Poisoning by unspecified antiepileptic and sedative-hypnotic drugs, assault, initial encounter",198,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,"Other incomplete lesion at C1 level of cervical spinal cord, initial encounter",198,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Honorable,Laceration of muscle and tendon of front wall of thorax,198,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Laceration of esophagus (thoracic part), subsequent encounter",198,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Poisoning by propionic acid derivatives, accidental (unintentional), initial encounter",198,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Other specified injury of right external jugular vein, sequela",198,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Rev,"Fall from, out of or through other building or structure",198,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Rev,"Other fracture of shaft of right fibula, subsequent encounter for closed fracture with nonunion",198,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,"Burn of esophagus, sequela",198,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,"Laceration of superficial vein at shoulder and upper arm level, left arm, subsequent encounter",198,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,Unspecified sequelae of unspecified cerebrovascular disease,198,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mr,Mechanical entropion of left upper eyelid,198,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Ms,"Unspecified injury to L2 level of lumbar spinal cord, initial encounter",198,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Dr,"Pulsating exophthalmos, right eye",198,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Ms,"Laceration of abdominal wall with foreign body, unspecified quadrant without penetration into peritoneal cavity, subsequent encounter",198,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mrs,"Total (external) ophthalmoplegia, unspecified eye",198,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mrs,"Displaced fracture of lateral end of left clavicle, subsequent encounter for fracture with malunion",198,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,Neoplasm of uncertain behavior of unspecified testis,198,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,"Fracture of unspecified part of neck of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",198,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mrs,"Salter-Harris Type I physeal fracture of upper end of right tibia, subsequent encounter for fracture with delayed healing",198,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,Unspecified displaced fracture of fourth cervical vertebra,198,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,"Female cousin, perpetrator of maltreatment and neglect",198,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mrs,"Crushing injury of unspecified thigh, sequela",198,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mr,"Passenger of snowmobile injured in traffic accident, initial encounter",147,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mr,"Contracture of muscle, unspecified shoulder",147,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,"Displaced avulsion fracture (chip fracture) of right talus, subsequent encounter for fracture with routine healing",147,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Rev,"Nondisplaced midcervical fracture of left femur, subsequent encounter for closed fracture with nonunion",147,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,Monoplegia of lower limb affecting right nondominant side,147,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Mrs,Passenger injured in collision with other motor vehicles in traffic accident,147,20,Green,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Rev,Accidental puncture and laceration of a respiratory system organ or structure during other procedure,147,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Rev,"Pedal cycle driver injured in collision with two- or three-wheeled motor vehicle in nontraffic accident, sequela",147,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Dr,"Motorcycle driver injured in collision with other motor vehicles in nontraffic accident, subsequent encounter",147,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,"Unspecified open wound of abdominal wall, epigastric region with penetration into peritoneal cavity, sequela",147,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,Acute bronchiolitis,147,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Ms,Unspecified foreign body in trachea,147,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,"Nondisplaced segmental fracture of shaft of left femur, subsequent encounter for closed fracture with nonunion",147,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mr,Phonological disorder,147,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Dr,"Driver of special agricultural vehicle injured in nontraffic accident, initial encounter",147,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Honorable,"Injury of right internal carotid artery, intracranial portion, not elsewhere classified with loss of consciousness of 31 minutes to 59 minutes, subsequent encounter",147,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,Osteitis deformans in neoplastic diseases,147,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,"Primary open-angle glaucoma, left eye",147,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,"Idiopathic chronic gout, right wrist, without tophus (tophi)",147,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Ms,"Other specified injuries of thorax, sequela",147,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Rev,"Maternal care for Anti-A sensitization, unspecified trimester, fetus 3",147,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,"Other fracture of lower end of left tibia, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",147,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mr,"Nondisplaced oblique fracture of shaft of left fibula, subsequent encounter for closed fracture with delayed healing",147,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Dr,Puncture wound without foreign body of left eyelid and periocular area,147,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Rev,"Blister (nonthermal) of unspecified front wall of thorax, initial encounter",147,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,"Salter-Harris Type II physeal fracture of upper end of humerus, unspecified arm, subsequent encounter for fracture with nonunion",147,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Ms,"Complete traumatic metacarpophalangeal amputation of other finger, initial encounter",147,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Ms,Fracture of unspecified tarsal bone(s),147,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,"Salter-Harris Type II physeal fracture of right metatarsal, subsequent encounter for fracture with delayed healing",147,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,"Kearns-Sayre syndrome, right eye",147,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Dr,Sideropenic dysphagia,147,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mr,"Accidental discharge of other gas, air or spring-operated gun, initial encounter",147,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,"Contracture, right wrist",147,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Ms,"Fused fingers, bilateral",147,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mr,"Other injury of muscle, fascia and tendon of triceps, unspecified arm, initial encounter",147,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mrs,"Nondisplaced comminuted fracture of right patella, initial encounter for open fracture type IIIA, IIIB, or IIIC",147,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,"Unspecified mastoiditis, right ear",147,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Contusion, laceration, and hemorrhage of cerebellum with loss of consciousness greater than 24 hours without return to pre-existing conscious level with patient surviving, sequela",147,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Laceration of flexor muscle, fascia and tendon of right little finger at wrist and hand level, sequela",147,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Honorable,Disruption of cesarean delivery wound,147,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,"Contusion and laceration of left cerebrum with loss of consciousness of any duration with death due to brain injury prior to regaining consciousness, subsequent encounter",147,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Displaced fracture of lateral condyle of left tibia, initial encounter for open fracture type I or II",147,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Rev,Cicatricial entropion of right upper eyelid,147,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,"Body mass index (BMI) 50-59.9 , adult",147,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Nondisplaced bimalleolar fracture of right lower leg, subsequent encounter for open fracture type I or II with malunion",147,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,Chronic sphenoidal sinusitis,147,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,"Displaced transverse fracture of right patella, subsequent encounter for open fracture type I or II with routine healing",147,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,Breakdown (mechanical) of ventricular intracranial (communicating) shunt,147,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Honorable,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity",147,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mrs,"Bent bone of right ulna, subsequent encounter for open fracture type I or II with delayed healing",147,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Dr,"Poisoning by androgens and anabolic congeners, assault",147,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Honorable,"Unspecified fracture of shaft of unspecified tibia, initial encounter for open fracture type I or II",147,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Rev,Flat anterior chamber hypotony of eye,147,20,Pink,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Honorable,"Burn of cornea and conjunctival sac, left eye, sequela",147,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mrs,"Injury of digital nerve of right thumb, sequela",147,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Ms,"Multiple fractures of pelvis with stable disruption of pelvic ring, initial encounter for closed fracture",147,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Rev,Intraoperative cerebrovascular infarction during cardiac surgery,147,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,"Intentional self-harm by unspecified larger firearm discharge, subsequent encounter",147,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Bent bone of right radius, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",147,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Rev,"Strain of muscle(s) and tendon(s) of peroneal muscle group at lower leg level, unspecified leg",147,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mrs,"Nondisplaced unspecified fracture of right great toe, subsequent encounter for fracture with delayed healing",147,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Dr,Adverse effect of alpha-adrenoreceptor antagonists,147,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Toxic effect of contact with other jellyfish, undetermined",147,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,"Lead-induced chronic gout, left wrist, with tophus (tophi)",147,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Ms,"Other Hodgkin lymphoma, lymph nodes of head, face, and neck",147,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Dr,Psychomotor deficit following other cerebrovascular disease,147,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,"Burn of third degree of unspecified site of left lower limb, except ankle and foot",147,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Nondisplaced fracture of lateral malleolus of unspecified fibula, sequela",147,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,"Poisoning by lysergide [LSD], undetermined, initial encounter",147,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mr,"Other intraarticular fracture of lower end of left radius, subsequent encounter for open fracture type I or II with routine healing",147,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Dr,"Displaced avulsion fracture of tuberosity of right calcaneus, sequela",147,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,Polyarteritis with lung involvement [Churg-Strauss],147,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,"Cholera due to Vibrio cholerae 01, biovar cholerae",147,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mr,"Blister (nonthermal) of right eyelid and periocular area, sequela",147,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Honorable,"Puncture wound with foreign body, left foot",147,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,"Toxic effect of other alcohols, intentional self-harm, subsequent encounter",147,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Ms,"Person on outside of bus injured in collision with car, pick-up truck or van in nontraffic accident",147,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Honorable,Genetic susceptibility to other disease,147,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Ms,"Struck by cow, sequela",147,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Unspecified motorcycle rider injured in collision with pedal cycle in traffic accident, sequela",147,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Dr,"Displaced fracture of neck of second metacarpal bone, left hand, sequela",147,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Dr,"Other superficial bite of unspecified foot, sequela",147,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Ms,"Injury of visual cortex, left eye, sequela",147,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,"Displaced other extraarticular fracture of unspecified calcaneus, subsequent encounter for fracture with routine healing",147,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Dr,Monocytosis (symptomatic),147,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Ms,Other specified injury of deep palmar arch,147,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,"Unspecified injury of unspecified muscle, fascia and tendon at shoulder and upper arm level, right arm, subsequent encounter",147,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,"Burn of first degree of left wrist, subsequent encounter",147,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Honorable,"Unspecified fracture of left foot, subsequent encounter for fracture with malunion",147,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Exposure to smoke, fire and flames, undetermined intent, initial encounter",147,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Corrosion of second degree of multiple sites of right wrist and hand, initial encounter",147,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Struck by other mammals, initial encounter",147,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Other displaced fracture of lower end of left humerus, subsequent encounter for fracture with malunion",147,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Honorable,"Unspecified fracture of unspecified talus, subsequent encounter for fracture with malunion",147,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Dr,Unspecified ptosis of eyelid,147,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mr,"Poisoning by local antifungal, anti-infective and anti-inflammatory drugs, undetermined, subsequent encounter",147,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Honorable,"Pathological fracture, right foot, subsequent encounter for fracture with nonunion",147,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Rev,"Obstructed labor due to malposition and malpresentation, unspecified, other fetus",147,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,"Displaced fracture of neck of scapula, left shoulder, subsequent encounter for fracture with routine healing",147,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mrs,"Burkitt lymphoma, lymph nodes of axilla and upper limb",147,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Dr,Dissection of renal artery,197,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Rev,Other mechanical complication of internal fixation device of left femur,197,20,Red,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"External constriction of other finger, initial encounter",197,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Medial dislocation of left ulnohumeral joint, sequela",197,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,"Other mental disorders complicating pregnancy, second trimester",197,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mr,Supervision of pregnancy with grand multiparity,197,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Dr,"Displaced fracture of medial condyle of unspecified humerus, initial encounter for closed fracture",197,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mr,Corrosions involving 60-69% of body surface with 60-69% third degree corrosion,197,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Honorable,"Pneumonia due to other infectious organisms, not elsewhere classified",197,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mrs,"Sprain of other specified parts of thorax, sequela",197,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,"Chorioamnionitis, second trimester, fetus 5",197,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mr,"Other complications specific to multiple gestation, unspecified trimester",197,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Ms,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery,197,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Honorable,"Puncture wound with foreign body, right hip",197,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,"Other secondary chronic gout, right knee, with tophus (tophi)",197,20,Pink,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,Other specified sprain of wrist,197,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Rev,"Major laceration of liver, initial encounter",197,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,"Thyrotoxicosis, unspecified",197,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,"Poisoning by, adverse effect of and underdosing of unspecified nonopioid analgesic, antipyretic and antirheumatic",197,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Pressure ulcer of right hip, stage 2",197,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mr,"Contracture, left elbow",197,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mrs,"Occupant of streetcar injured in unspecified traffic accident, subsequent encounter",197,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Ms,Ulcer of intestine,197,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,Sprain of the superior tibiofibular joint and ligament,197,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,"Person on outside of pick-up truck or van injured in collision with car, pick-up truck or van in traffic accident, sequela",197,20,Aquamarine,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,"Other exposure to controlled fire, not in building or structure, subsequent encounter",197,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Mrs,Overdose of radiation given during therapy,197,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,Corrosion of other parts of respiratory tract,197,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mrs,"Corrosion of first degree of lip(s), sequela",197,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Mr,"Displaced fracture of acromial process, right shoulder, subsequent encounter for fracture with malunion",197,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Dr,"Disorder of central nervous system, unspecified",197,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,Obstructive hypertrophic cardiomyopathy,197,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Ms,"Toxic effect of venom of brown recluse spider, accidental (unintentional)",197,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Ms,Military operations involving unspecified weapon of mass destruction [WMD],197,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Honorable,"Unspecified open wound of unspecified front wall of thorax with penetration into thoracic cavity, initial encounter",197,20,Maroon,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mrs,Other specified injuries of external genitals,197,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Honorable,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,197,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Honorable,"Displaced fracture of body of left talus, initial encounter for closed fracture",197,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mr,Symptoms and signs specifically associated with systemic inflammation and infection,197,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Ms,"Chronic gout due to renal impairment, right shoulder",197,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Ms,Primary thunderclap headache,197,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Rev,"Maternal care for unstable lie, fetus 4",197,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Dr,"Nontraumatic ischemic infarction of muscle, unspecified ankle and foot",197,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,"Other superficial bite of scrotum and testes, initial encounter",197,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Dr,"Nondisplaced fracture of left tibial spine, subsequent encounter for closed fracture with delayed healing",197,20,Red,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Unspecified fracture of shaft of right ulna, initial encounter for open fracture type I or II",197,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Rev,"Calcific tendinitis, left forearm",197,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,"Other fracture of upper end of unspecified ulna, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with delayed healing",197,20,Pink,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,"Unspecified injury of celiac artery, sequela",197,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mrs,"Other atherosclerosis of other type of bypass graft(s) of the extremities, left leg",197,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Dr,"Other specified disorders of middle ear and mastoid in diseases classified elsewhere, unspecified ear",197,20,Purple,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Honorable,"Displaced bimalleolar fracture of left lower leg, subsequent encounter for open fracture type I or II with nonunion",197,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Ms,Laceration without foreign body of left little finger without damage to nail,197,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Dr,"Displaced fracture of lower epiphysis (separation) of right femur, subsequent encounter for open fracture type I or II with routine healing",197,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Mrs,Laceration with foreign body of unspecified thumb without damage to nail,197,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Honorable,"Strain of extensor muscle, fascia and tendon of left thumb at wrist and hand level",197,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Dr,"Displaced oblique fracture of shaft of left fibula, subsequent encounter for open fracture type I or II with nonunion",197,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,"Laceration of flexor muscle, fascia and tendon of left little finger at wrist and hand level, initial encounter",197,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,"Underdosing of antineoplastic and immunosuppressive drugs, subsequent encounter",197,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Dr,Nontraumatic subarachnoid hemorrhage from middle cerebral artery,197,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Dr,"Toxic effect of carbon monoxide from utility gas, accidental (unintentional), sequela",197,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Dr,Preauricular sinus and cyst,197,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,"Nondisplaced supracondylar fracture without intracondylar extension of lower end of left femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",197,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,Other disorders of nervous system in diseases classified elsewhere,197,20,Mauv,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Rev,"Salter-Harris Type II physeal fracture of right calcaneus, initial encounter for closed fracture",197,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Honorable,"Exposure to residence or prolonged visit at high altitude, sequela",197,20,Green,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Rev,"Stress fracture, unspecified shoulder, subsequent encounter for fracture with nonunion",197,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Ms,Congenital malformation of retina,197,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Nondisplaced fracture of neck of fourth metacarpal bone, right hand, subsequent encounter for fracture with routine healing",197,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Ms,"Poisoning by other antiepileptic and sedative-hypnotic drugs, assault",197,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,Persistent migraine aura with cerebral infarction,197,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Rev,"Toxic effect of contact with stingray, assault, subsequent encounter",197,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Mr,Decreased libido,197,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Honorable,"Salter-Harris Type IV physeal fracture of right calcaneus, sequela",197,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Mr,"Displaced articular fracture of head of unspecified femur, subsequent encounter for closed fracture with malunion",197,20,Green,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Honorable,Zoster meningitis,197,20,Crimson,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,"Injury of olfactory [1st ] nerve, right side",197,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Rev,"Rheumatoid nodule, vertebrae",197,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,"Unspecified fracture of shaft of right fibula, sequela",197,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Dr,Other specified disorders of right middle ear and mastoid,197,20,Fuscia,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mr,"Sprain of unspecified parts of right shoulder girdle, sequela",197,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Rev,Unspecified malaria,197,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,"Nondisplaced spiral fracture of shaft of left femur, subsequent encounter for open fracture type I or II with routine healing",197,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Rev,"Strain of flexor muscle, fascia and tendon of other finger at wrist and hand level, initial encounter",197,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Rev,Diagnostic and monitoring orthopedic devices associated with adverse incidents,197,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mr,Sprain of other specified parts of unspecified shoulder girdle,197,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Honorable,"Unspecified superficial injuries of breast, left breast, initial encounter",197,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Dr,"Traumatic rupture of left radiocarpal ligament, subsequent encounter",197,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Rev,Displaced fracture of navicular [scaphoid] of unspecified foot,197,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Dr,"Major depressive disorder, recurrent, in remission, unspecified",197,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Ms,"Puncture wound of abdominal wall with foreign body, epigastric region without penetration into peritoneal cavity",197,20,Goldenrod,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,"Poisoning by expectorants, undetermined, sequela",197,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Ms,"Type III occipital condyle fracture, right side, sequela",197,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Rev,"Sprain of unspecified collateral ligament of unspecified knee, subsequent encounter",197,20,Green,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Honorable,"Injury of lateral plantar nerve, unspecified leg, subsequent encounter",197,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Rev,"Corrosion of third degree of multiple sites of right shoulder and upper limb, except wrist and hand, initial encounter",197,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Ms,Laceration with foreign body of unspecified elbow,197,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,"Unspecified occupant of heavy transport vehicle injured in noncollision transport accident in nontraffic accident, initial encounter",197,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,"Unspecified fracture of right patella, initial encounter for closed fracture",197,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,Rheumatic heart failure,197,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mrs,"Other cyst of bone, other site",146,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,Non-pressure chronic ulcer of unspecified calf with necrosis of bone,146,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mr,"Contusion of unspecified ring finger with damage to nail, subsequent encounter",146,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mrs,"Infantile idiopathic scoliosis, lumbosacral region",146,20,Yellow,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mr,"Occupant (driver) (passenger) of heavy transport vehicle injured in unspecified nontraffic accident, subsequent encounter",146,20,Indigo,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,"Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, right eye",146,20,Crimson,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Dr,"Hallucinogen use, unspecified with intoxication with delirium",146,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Men's Clothing,Dr,Other nonthrombocytopenic purpura,146,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Mrs,"Bipolar disorder, current episode depressed, mild or moderate severity, unspecified",146,20,Turquoise,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mr,"Cutaneous T-cell lymphoma, unspecified",146,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Honorable,Other lacunar syndromes,146,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Dr,"Unspecified sprain of unspecified finger, sequela",146,20,Green,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Dr,"Nondisplaced articular fracture of head of unspecified femur, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with nonunion",146,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"Other monocytic leukemia, not having achieved remission",146,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mrs,"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine, sequela",146,20,Puce,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Rev,Raynaud's syndrome,146,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Honorable,"Displaced fracture of trapezoid [smaller multangular], left wrist, initial encounter for closed fracture",146,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Ms,Dislocation of midcarpal joint of right wrist,146,20,Blue,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Fracture of ramus of mandible, unspecified side, subsequent encounter for fracture with routine healing",146,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Mrs,"Minimally displaced Zone II fracture of sacrum, subsequent encounter for fracture with nonunion",146,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mrs,"Periumbilic swelling, mass or lump",146,20,Aquamarine,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,Monoplegia of upper limb following unspecified cerebrovascular disease affecting left non-dominant side,146,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mr,"Encounter for pregnancy test, result unknown",146,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Men's Clothing,Dr,"Peripheral T-cell lymphoma, not classified, spleen",146,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Dr,"Minor laceration of head of pancreas, subsequent encounter",146,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Mr,"Nondisplaced fracture of navicular [scaphoid] of right foot, subsequent encounter for fracture with delayed healing",146,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mrs,"Other specified injury of intercostal blood vessels, right side, sequela",146,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Type III traumatic spondylolisthesis of second cervical vertebra, initial encounter for closed fracture",146,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Dr,"Nondisplaced fracture of hook process of hamate [unciform] bone, unspecified wrist, sequela",146,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Honorable,Other physeal fracture of right calcaneus,146,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Ms,"Other effects of air pressure and water pressure, initial encounter",146,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mrs,Spastic ectropion of right lower eyelid,146,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Honorable,Atheroembolism of bilateral upper extremities,146,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Mrs,"Unspecified fracture of unspecified patella, sequela",146,20,Crimson,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,"Exposure to electric transmission lines, subsequent encounter",146,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Rev,Iatrogenic neonatal hypoglycemia,146,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Dr,"Superficial (capsular) laceration of spleen, initial encounter",146,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Ms,Cellulitis of other sites,146,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,"Fall into swimming pool striking bottom causing other injury, subsequent encounter",146,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Mr,"Continuing pregnancy after intrauterine death of one fetus or more, second trimester, fetus 4",146,20,Fuscia,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Honorable,"Displaced bimalleolar fracture of right lower leg, subsequent encounter for open fracture type I or II with malunion",146,20,Khaki,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Other fracture of shaft of left fibula, subsequent encounter for open fracture type IIIA, IIIB, or IIIC with malunion",146,20,Turquoise,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Ms,"Other specified complications due to other genitourinary prosthetic materials, initial encounter",146,20,Mauv,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Rev,"External constriction of left middle finger, subsequent encounter",146,20,Yellow,/home/cyber_mizdav/Pictures/store_banner.jpg
+House Garden,Ms,"Laceration without foreign body of left ring finger without damage to nail, sequela",146,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Honorable,"Poisoning by vitamins, undetermined, subsequent encounter",146,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mr,"Unspecified injury of long flexor muscle, fascia and tendon of left thumb at wrist and hand level, initial encounter",146,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Mrs,"LeFort III fracture, subsequent encounter for fracture with routine healing",146,20,Teal,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Honorable,Occlusion and stenosis of bilateral carotid arteries,146,20,Mauv,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mr,Toxic effect of tobacco and nicotine,146,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,Vertigo of central origin,146,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mr,Type 1 diabetes mellitus with hypoglycemia without coma,146,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Ms,"Corrosion of first degree of left lower leg, subsequent encounter",146,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Honorable,"Anterior spinal artery compression syndromes, cervicothoracic region",146,20,Aquamarine,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Person boarding or alighting a car injured in collision with van, subsequent encounter",146,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Dr,"Other complications of foreign body accidentally left in body following unspecified procedure, sequela",146,20,Puce,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Toxic effect of venom of other African and Asian snake, assault, sequela",146,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,"Strain of extensor muscle, fascia and tendon of right middle finger at forearm level, initial encounter",146,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Ms,Exposure to excessive natural heat,146,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Honorable,Radiohumeral (joint) sprain,146,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Ms,"Nondisplaced comminuted supracondylar fracture without intercondylar fracture of left humerus, subsequent encounter for fracture with routine healing",146,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Mr,"Legal intervention involving injury by rubber bullet, bystander injured, sequela",146,20,Teal,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Honorable,"Underdosing of unspecified primarily systemic and hematological agent, sequela",146,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mr,"Asphyxiation due to mechanical threat to breathing due to other causes, assault, sequela",146,20,Indigo,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mrs,Nonpneumonic Legionnaires' disease [Pontiac fever],146,20,Fuscia,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Honorable,NIHSS score 19,146,20,Violet,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Mrs,Shaken infant syndrome,146,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Rev,"Other shellfish poisoning, accidental (unintentional), sequela",146,20,Orange,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"Jumping or diving into other water striking wall causing other injury, sequela",146,20,Purple,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Honorable,"Myelodysplastic syndrome, unspecified",146,20,Orange,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mr,"Adverse effect of antimalarials and drugs acting on other blood protozoa, subsequent encounter",146,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+Electronics,Dr,Cervical disc disorder at C5-C6 level with myelopathy,146,20,Puce,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Mr,"Person on outside of car injured in collision with pick-up truck in traffic accident, sequela",146,20,Green,/home/cyber_mizdav/Pictures/store_banner.jpg
+Books,Dr,Dislocation of unspecified part of thorax,146,20,Blue,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Rev,"Bitten by other mammals, initial encounter",146,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Ms,"Displaced spiral fracture of shaft of unspecified fibula, subsequent encounter for open fracture type I or II with delayed healing",146,20,Purple,/home/cyber_mizdav/Pictures/store1.jpg
+Books,Mrs,"Unspecified trochanteric fracture of unspecified femur, initial encounter for closed fracture",146,20,Orange,/home/cyber_mizdav/Pictures/DATA.jpg
+Suitcases & Bags,Mrs,"Open bite of right cheek and temporomandibular area, subsequent encounter",146,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Honorable,Military operations involving gasoline bomb,146,20,Goldenrod,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Ms,Dining room in reform school as the place of occurrence of the external cause,146,20,Blue,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,"Adverse effect of antipruritics, initial encounter",146,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Men's Clothing,Mr,"Person on outside of three-wheeled motor vehicle injured in collision with other nonmotor vehicle in nontraffic accident, initial encounter",146,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,Other injury of unspecified urinary and pelvic organ,146,20,Khaki,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,Public administrative building as the place of occurrence of the external cause,146,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+House Garden,Ms,"Poisoning by opium, undetermined, initial encounter",146,20,Red,/home/cyber_mizdav/Pictures/store1.jpg
+Accessories,Honorable,"Toxic effect of contact with other jellyfish, intentional self-harm, sequela",146,20,Teal,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mr,"Drug-induced gout, unspecified hand",146,20,Turquoise,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Rev,"Unspecified open wound of vagina and vulva, subsequent encounter",146,20,Maroon,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Mr,"Dislocation of unspecified parts of left shoulder girdle, initial encounter",146,20,Violet,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Dr,"Struck by turkey, initial encounter",146,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Suitcases & Bags,Mr,"Stress fracture, left toe(s), subsequent encounter for fracture with delayed healing",146,20,Maroon,/home/cyber_mizdav/Pictures/store_banner.jpg
+Electronics,Rev,"Unspecified fracture of second metacarpal bone, right hand, initial encounter for closed fracture",146,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Mrs,"Puncture wound with foreign body, unspecified lower leg, sequela",146,20,Yellow,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Mrs,"Other sprain of unspecified finger, initial encounter",146,20,Pink,/home/cyber_mizdav/Pictures/DATA.jpg
+Accessories,Honorable,Adverse effect of selective serotonin reuptake inhibitors,146,20,Red,/home/cyber_mizdav/Pictures/DATA.jpg
+Electronics,Honorable,"Toxic effect of ketones, intentional self-harm, subsequent encounter",146,20,Violet,/home/cyber_mizdav/Pictures/store1.jpg
+Suitcases & Bags,Dr,"Nondisplaced fracture of distal pole of navicular [scaphoid] bone of left wrist, initial encounter for open fracture",146,20,Pink,/home/cyber_mizdav/Pictures/store1.jpg
+House Garden,Dr,"Open bite of abdominal wall, unspecified quadrant without penetration into peritoneal cavity, subsequent encounter",146,20,Indigo,/home/cyber_mizdav/Pictures/DATA.jpg
+Books,Dr,"Traumatic rupture of collateral ligament of unspecified wrist, sequela",146,20,Khaki,/home/cyber_mizdav/Pictures/store_banner.jpg
+Accessories,Ms,"Pathological fracture, unspecified hand, subsequent encounter for fracture with routine healing",146,20,Goldenrod,/home/cyber_mizdav/Pictures/store_banner.jpg

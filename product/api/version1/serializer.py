@@ -15,15 +15,15 @@ class CategoryCreateSerializer(serializers.ModelSerializer):
         fields = ['name']
 
 
-class ProductsSerializer(serializers.ModelSerializer):
-    main_image = serializers.SerializerMethodField()
+class ProductSerializer(serializers.ModelSerializer):
+    main_image = serializers.CharField()
 
     class Meta:
         model = Product
         fields = ['pk', 'title', 'description', 'price', 'main_image']
 
     def get_main_image(self, obj):
-        main_image = Image.objects.filter(product=obj).first()
+        main_image = obj.image_set.first()
         if main_image:
             return main_image.image.url
         return ""

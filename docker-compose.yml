@@ -1,0 +1,31 @@
+version: '3.11'
+
+services:
+  web:
+    build: .
+    container_name: ecommerce
+    command: python manage.py runserver 0.0.0.0:8000
+    restart: always
+    ports:
+      - 8000:8000
+    volumes:
+      - media_file:/app/media
+    depends_on:
+      - db
+
+  postgres:
+    image: postgres:alpine
+    container_name: postgres
+    env_file:
+      - .db.env
+
+
+  redis:
+    image: redis:alpine
+    container_name: redis
+    ports:
+      - 6379:6379
+
+
+volumes:
+  media_file:

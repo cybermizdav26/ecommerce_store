@@ -1,6 +1,7 @@
 from django.contrib import messages
 from django.contrib.auth import authenticate, login, logout, get_user_model
 from django.contrib.auth.mixins import LoginRequiredMixin
+from django.core.cache import cache
 from django.shortcuts import render, redirect
 from django.urls import reverse, reverse_lazy
 from django.views.generic import DetailView, UpdateView
@@ -66,3 +67,19 @@ class UserProfileUpdateView(LoginRequiredMixin, UpdateView):
 
     def get_object(self, queryset=None):
         return self.request.user
+
+
+def verify_code(request):
+    code = request.GET.get('code')
+    user_id = request.GET.get('user_id')
+    if not code:
+        return redirect('account:register')
+    if not user_id:
+        return redirect('account:register')
+    user = User.objects.get(pk=user_id)
+    code_cache = cache.get(user_id)
+    if code_cache is not None and code == code_cache:
+        user.is_active = True
+        user.save()
+        return redirect('account:login')
+    return redirect('account:register')

@@ -3,29 +3,25 @@ version: '3.11'
 services:
   web:
     build: .
-    container_name: ecommerce
+    container_name: web
     command: python manage.py runserver 0.0.0.0:8000
-    restart: always
     ports:
       - 8000:8000
-    volumes:
-      - media_file:/app/media
     depends_on:
-      - db
-
-  postgres:
-    image: postgres:alpine
-    container_name: postgres
-    env_file:
-      - .db.env
+      - redis
+    restart: unless-stopped
 
 
   redis:
     image: redis:alpine
     container_name: redis
-    ports:
-      - 6379:6379
+    restart: unless-stopped
 
 
-volumes:
-  media_file:
+  celery:
+    build: .
+    command: celery -A ecommerce_store.celery worker -l info
+    restart: unless-stopped
+    depends_on:
+      - web
+      - redis

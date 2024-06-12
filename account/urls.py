@@ -1,6 +1,6 @@
 from django.urls import path
 
-from account.views import login_view, logout_view, sign_up_view, UserProfileUpdateView, UserProfileView
+from account.views import login_view, logout_view, sign_up_view, UserProfileUpdateView, UserProfileView, verify_code
 
 app_name = 'account'
 
@@ -10,4 +10,5 @@ urlpatterns = [
     path('register/', sign_up_view, name='register'),
     path('profile/', UserProfileView.as_view(), name='profile'),
     path('profile/update/', UserProfileUpdateView.as_view(), name='profile_update'),
+    path('verify_email/', verify_code, name='verify'),
 ]

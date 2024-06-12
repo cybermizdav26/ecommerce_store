@@ -2,6 +2,7 @@ from django.core.exceptions import ValidationError
 from django.db import models
 from django.contrib.auth import get_user_model
 from django.core.validators import MinValueValidator, MaxValueValidator
+from parler.models import TranslatableModel, TranslatedFields
 
 from product.choices import CategoryType
 
@@ -10,7 +11,10 @@ from base.models import TimeStampModel
 User = get_user_model()
 
 
-class Category(TimeStampModel):
+class Category(TranslatableModel, TimeStampModel):
+    # translations = TranslatedFields(
+    #     name=models.CharField(max_length=100, unique=True)
+    # )
     name = models.CharField(max_length=100, unique=True)
     order = models.IntegerField(default=0)
     type = models.IntegerField(choices=CategoryType, default=CategoryType.NON_TYPE)

@@ -7,6 +7,8 @@ from django.urls import reverse, reverse_lazy
 from django.views.generic import DetailView, UpdateView
 
 from account.forms import SignUpForm, UserUpdateProfileForm
+from account.tasks import send_email
+from account.utils import generate_code
 
 User = get_user_model()
 
@@ -15,15 +17,25 @@ def sign_up_view(request):
     if request.method == 'POST':
         form = SignUpForm(request.POST)
         if form.is_valid():
-            form.save()
-            messages.success(request, 'Your account has been created!')
+            user = form.save(commit=False)
+            user.is_active = False
+            user.save()
+            email = user.email
+            code = generate_code()
+            cache.set(f"{user.pk}", code, timeout=180)
+            print(cache.get(f"{user.pk}"))
+            redirect_url = f"http://127.0.0.1:8000/account/verify-code?code={code}&user_id={user.pk}"
+            send_email.delay(email, code, redirect_url)
+            messages.success(request, 'Siz ruyxatdan o`tdingiz')
             return redirect('account:login')
-        messages.warning(request, 'Please enter your details')
+        messages.warning(request, 'qayta urinib kuring')
 
     form = SignUpForm()
+
     context = {
-        "form": form,
+        'form': form,
     }
+
     return render(request, 'account/register.html', context)
 
 
@@ -78,6 +90,7 @@ def verify_code(request):
         return redirect('account:register')
     user = User.objects.get(pk=user_id)
     code_cache = cache.get(user_id)
+    print(code_cache, 'cache')
     if code_cache is not None and code == code_cache:
         user.is_active = True
         user.save()

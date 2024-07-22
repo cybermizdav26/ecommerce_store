@@ -15,7 +15,7 @@ def home(request):
 
     products = Product.objects.annotate(
         main_image=Subquery(main_image_subquery)
-    ).values('pk', 'title', 'price', 'main_image')[:8]
+    ).all()[:8]
 
     context = {'products': products}
     return render(request, 'base/home.html', context)
@@ -38,7 +38,7 @@ def store(request):
 
     products = products.annotate(
         main_image=Subquery(main_image_subquery)
-    ).values('pk', 'title', 'price', 'main_image')
+    ).values('pk', 'price', 'main_image')
 
     products = Paginator(products, 6)
     page = request.GET.get('page')

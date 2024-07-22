@@ -48,7 +48,6 @@ INSTALLED_APPS = [
     'django_redis',
     'django_celery_beat',
     'django_celery_results',
-    'parler',
 
     #local apps
     'account.apps.AccountConfig',
@@ -102,17 +101,6 @@ DATABASES = {
         'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
-
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-#         'NAME': 'ecommerce',
-#         'USER': 'postgres',
-#         'PASSWORD': '1234',
-#         'HOST': 'db',
-#         'PORT': '5432',
-#     }
-# }
 
 # Password validation
 # https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators
@@ -182,7 +170,7 @@ CACHES = {
     }
 }
 
-#CELERY SETTINGS
+#Celery SETTINGS
 
 CELERY_BROKER_URL = 'redis://127.0.0.1:6379'
 CELERY_ACCEPT_CONTENT = ['application/json']
@@ -190,3 +178,33 @@ CELERY_RESULT_SERIALIZER = 'json'
 CELERY_TASK_SERIALIZER = 'json'
 CELERY_RESULT_BACKEND = 'django-db'
 CELERY_TIMEZONE = 'Asia/Tashkent'
+
+#Email SETTINGS
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_USE_TLS = True
+EMAIL_PORT = 587
+EMAIL_HOST_USER = 'your_email@gmail.com'
+EMAIL_HOST_PASSWORD = ''
+
+
+# from django.utils.translation import gettext_lazy as _
+#
+#
+# LANGUAGES = (
+#     ('uz', _("Uzbek")),
+#     ('en', _("English")),
+#     ('ru', _('Russian')),
+# )
+#
+# PARLER_LANGUAGES = {
+#     None: (
+#         {'code': 'uz', },
+#         {'code': 'en', },
+#         {'code': 'ru', },
+#     ),
+#     'default': {
+#         'fallback': 'uz',  # defaults to PARLER_DEFAULT_LANGUAGE_CODE
+#         'hide_untranslated': False,  # the default; let .active_translations() return fallbacks too.
+#     }
+# }
